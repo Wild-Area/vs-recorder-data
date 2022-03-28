@@ -1,0 +1,793 @@
+bulbasaur: Bulbasaur
+ivysaur: Ivysaur
+venusaur: Venusaur
+venusaur-gmax: Venusaur-Gmax
+charmander: Charmander
+charmeleon: Charmeleon
+charizard: Charizard
+charizard-gmax: Charizard-Gmax
+squirtle: Squirtle
+wartortle: Wartortle
+blastoise: Blastoise
+blastoise-gmax: Blastoise-Gmax
+caterpie: Caterpie
+metapod: Metapod
+butterfree: Butterfree
+butterfree-gmax: Butterfree-Gmax
+pikachu: Pikachu
+pikachu-gmax: Pikachu-Gmax
+pikachu-hat1: Pikachu-Hat1
+pikachu-hat2: Pikachu-Hat2
+pikachu-hat3: Pikachu-Hat3
+pikachu-hat4: Pikachu-Hat4
+pikachu-hat5: Pikachu-Hat5
+pikachu-hat6: Pikachu-Hat6
+pikachu-hat7: Pikachu-Hat7
+pikachu-hat8: Pikachu-Hat8
+raichu: Raichu
+alolan-raichu: Alolan Raichu
+sandshrew: Sandshrew
+alolan-sandshrew: Alolan Sandshrew
+sandslash: Sandslash
+alolan-sandslash: Alolan Sandslash
+nidoran♀: Nidoran♀
+nidorina: Nidorina
+nidoqueen: Nidoqueen
+nidoran♂: Nidoran♂
+nidorino: Nidorino
+nidoking: Nidoking
+clefairy: Clefairy
+clefable: Clefable
+vulpix: Vulpix
+alolan-vulpix: Alolan Vulpix
+ninetales: Ninetales
+alolan-ninetales: Alolan Ninetales
+jigglypuff: Jigglypuff
+wigglytuff: Wigglytuff
+zubat: Zubat
+golbat: Golbat
+oddish: Oddish
+gloom: Gloom
+vileplume: Vileplume
+diglett: Diglett
+alolan-diglett: Alolan Diglett
+dugtrio: Dugtrio
+alolan-dugtrio: Alolan Dugtrio
+meowth: Meowth
+meowth-gmax: Meowth-Gmax
+alolan-meowth: Alolan Meowth
+galarian-meowth: Galarian Meowth
+persian: Persian
+alolan-persian: Alolan Persian
+psyduck: Psyduck
+golduck: Golduck
+growlithe: Growlithe
+arcanine: Arcanine
+poliwag: Poliwag
+poliwhirl: Poliwhirl
+poliwrath: Poliwrath
+abra: Abra
+kadabra: Kadabra
+alakazam: Alakazam
+machop: Machop
+machoke: Machoke
+machamp: Machamp
+machamp-gmax: Machamp-Gmax
+tentacool: Tentacool
+tentacruel: Tentacruel
+ponyta: Ponyta
+galarian-ponyta: Galarian Ponyta
+rapidash: Rapidash
+galarian-rapidash: Galarian Rapidash
+slowpoke: Slowpoke
+galarian-slowpoke: Galarian Slowpoke
+slowbro: Slowbro
+galarian-slowbro: Galarian Slowbro
+magnemite: Magnemite
+magneton: Magneton
+farfetch-d: Farfetch'd
+galarian-farfetch-d: Galarian Farfetch'd
+shellder: Shellder
+cloyster: Cloyster
+gastly: Gastly
+haunter: Haunter
+gengar: Gengar
+gengar-gmax: Gengar-Gmax
+onix: Onix
+krabby: Krabby
+kingler: Kingler
+kingler: Kingler
+exeggcute: Exeggcute
+exeggutor: Exeggutor
+alolan-exeggutor: Alolan Exeggutor
+cubone: Cubone
+marowak: Marowak
+alolan-marowak: Alolan Marowak
+hitmonlee: Hitmonlee
+hitmonchan: Hitmonchan
+lickitung: Lickitung
+koffing: Koffing
+weezing: Weezing
+galarian-weezing: Galarian Weezing
+rhyhorn: Rhyhorn
+rhydon: Rhydon
+chansey: Chansey
+tangela: Tangela
+kangaskhan: Kangaskhan
+horsea: Horsea
+seadra: Seadra
+goldeen: Goldeen
+seaking: Seaking
+staryu: Staryu
+starmie: Starmie
+mr-mime: Mr. Mime
+galarian-mr-mime: Galarian Mr. Mime
+scyther: Scyther
+jynx: Jynx
+electabuzz: Electabuzz
+magmar: Magmar
+pinsir: Pinsir
+tauros: Tauros
+magikarp: Magikarp
+gyarados: Gyarados
+lapras: Lapras
+lapras-gmax: Lapras-Gmax
+ditto: Ditto
+eevee: Eevee
+eevee-gmax: Eevee-Gmax
+vaporeon: Vaporeon
+jolteon: Jolteon
+flareon: Flareon
+porygon: Porygon
+omanyte: Omanyte
+omastar: Omastar
+kabuto: Kabuto
+kabutops: Kabutops
+aerodactyl: Aerodactyl
+snorlax: Snorlax
+snorlax-gmax: Snorlax-Gmax
+articuno: Articuno
+galarian-articuno: Galarian Articuno
+zapdos: Zapdos
+galarian-zapdos: Galarian Zapdos
+moltres: Moltres
+galarian-moltres: Galarian Moltres
+dratini: Dratini
+dragonair: Dragonair
+dragonite: Dragonite
+mewtwo: Mewtwo
+mew: Mew
+hoothoot: Hoothoot
+noctowl: Noctowl
+crobat: Crobat
+chinchou: Chinchou
+lanturn: Lanturn
+cleffa: Cleffa
+pichu: Pichu
+igglybuff: Igglybuff
+togepi: Togepi
+togetic: Togetic
+natu: Natu
+xatu: Xatu
+bellossom: Bellossom
+marill: Marill
+azumarill: Azumarill
+sudowoodo: Sudowoodo
+politoed: Politoed
+wooper: Wooper
+quagsire: Quagsire
+espeon: Espeon
+umbreon: Umbreon
+slowking: Slowking
+galarian-slowking: Galarian Slowking
+wobbuffet: Wobbuffet
+dunsparce: Dunsparce
+steelix: Steelix
+qwilfish: Qwilfish
+scizor: Scizor
+shuckle: Shuckle
+heracross: Heracross
+sneasel: Sneasel
+swinub: Swinub
+piloswine: Piloswine
+corsola: Corsola
+galarian-corsola: Galarian Corsola
+remoraid: Remoraid
+octillery: Octillery
+delibird: Delibird
+mantine: Mantine
+skarmory: Skarmory
+kingdra: Kingdra
+porygon2: Porygon2
+tyrogue: Tyrogue
+hitmontop: Hitmontop
+smoochum: Smoochum
+elekid: Elekid
+magby: Magby
+miltank: Miltank
+blissey: Blissey
+raikou: Raikou
+entei: Entei
+suicune: Suicune
+larvitar: Larvitar
+pupitar: Pupitar
+tyranitar: Tyranitar
+tyranitar-old: Tyranitar-Old
+lugia: Lugia
+ho-oh: Ho-oh
+celebi: Celebi
+treecko: Treecko
+grovyle: Grovyle
+sceptile: Sceptile
+torchic: Torchic
+combusken: Combusken
+blaziken: Blaziken
+mudkip: Mudkip
+marshtomp: Marshtomp
+swampert: Swampert
+zigzagoon: Zigzagoon
+galarian-zigzagoon: Galarian Zigzagoon
+linoone: Linoone
+galarian-linoone: Galarian Linoone
+lotad: Lotad
+lombre: Lombre
+ludicolo: Ludicolo
+seedot: Seedot
+nuzleaf: Nuzleaf
+shiftry: Shiftry
+wingull: Wingull
+pelipper: Pelipper
+ralts: Ralts
+kirlia: Kirlia
+gardevoir: Gardevoir
+nincada: Nincada
+ninjask: Ninjask
+shedinja: Shedinja
+whismur: Whismur
+loudred: Loudred
+exploud: Exploud
+azurill: Azurill
+sableye: Sableye
+mawile: Mawile
+aron: Aron
+lairon: Lairon
+aggron: Aggron
+electrike: Electrike
+manectric: Manectric
+roselia: Roselia
+carvanha: Carvanha
+sharpedo: Sharpedo
+wailmer: Wailmer
+wailord: Wailord
+torkoal: Torkoal
+trapinch: Trapinch
+vibrava: Vibrava
+flygon: Flygon
+swablu: Swablu
+altaria: Altaria
+lunatone: Lunatone
+solrock: Solrock
+barboach: Barboach
+whiscash: Whiscash
+corphish: Corphish
+crawdaunt: Crawdaunt
+baltoy: Baltoy
+claydol: Claydol
+lileep: Lileep
+cradily: Cradily
+anorith: Anorith
+armaldo: Armaldo
+feebas: Feebas
+milotic: Milotic
+duskull: Duskull
+dusclops: Dusclops
+absol: Absol
+wynaut: Wynaut
+snorunt: Snorunt
+glalie: Glalie
+spheal: Spheal
+sealeo: Sealeo
+walrein: Walrein
+relicanth: Relicanth
+bagon: Bagon
+shelgon: Shelgon
+salamence: Salamence
+beldum: Beldum
+metang: Metang
+metagross: Metagross
+regirock: Regirock
+regice: Regice
+registeel: Registeel
+latias: Latias
+latios: Latios
+kyogre: Kyogre
+groudon: Groudon
+rayquaza: Rayquaza
+jirachi: Jirachi
+shinx: Shinx
+luxio: Luxio
+luxray: Luxray
+budew: Budew
+roserade: Roserade
+combee: Combee
+vespiquen: Vespiquen
+cherubi: Cherubi
+cherrim: Cherrim
+cherrim-sunshine-form: Cherrim (Sunshine Form)
+shellos: Shellos
+shellos-east-sea: Shellos (East Sea)
+gastrodon: Gastrodon
+gastrodon-east-sea: Gastrodon (East Sea)
+drifloon: Drifloon
+drifblim: Drifblim
+buneary: Buneary
+lopunny: Lopunny
+stunky: Stunky
+skuntank: Skuntank
+bronzor: Bronzor
+bronzong: Bronzong
+bonsly: Bonsly
+mime-jr-: Mime Jr.
+happiny: Happiny
+spiritomb: Spiritomb
+gible: Gible
+gabite: Gabite
+garchomp: Garchomp
+munchlax: Munchlax
+riolu: Riolu
+lucario: Lucario
+hippopotas: Hippopotas
+hippowdon: Hippowdon
+skorupi: Skorupi
+drapion: Drapion
+croagunk: Croagunk
+toxicroak: Toxicroak
+mantyke: Mantyke
+snover: Snover
+abomasnow: Abomasnow
+weavile: Weavile
+magnezone: Magnezone
+lickilicky: Lickilicky
+rhyperior: Rhyperior
+tangrowth: Tangrowth
+electivire: Electivire
+magmortar: Magmortar
+togekiss: Togekiss
+leafeon: Leafeon
+glaceon: Glaceon
+mamoswine: Mamoswine
+porygon-z: Porygon-Z
+gallade: Gallade
+dusknoir: Dusknoir
+froslass: Froslass
+rotom: Rotom
+heat-rotom: Heat Rotom
+wash-rotom: Wash Rotom
+frost-rotom: Frost Rotom
+fan-rotom: Fan Rotom
+mow-rotom: Mow Rotom
+uxie: Uxie
+mesprit: Mesprit
+azelf: Azelf
+dialga: Dialga
+palkia: Palkia
+heatran: Heatran
+regigigas: Regigigas
+giratina: Giratina
+giratina-origin-form: Giratina (Origin Form)
+cresselia: Cresselia
+victini: Victini
+lillipup: Lillipup
+herdier: Herdier
+stoutland: Stoutland
+purrloin: Purrloin
+liepard: Liepard
+munna: Munna
+musharna: Musharna
+pidove: Pidove
+tranquill: Tranquill
+unfezant: Unfezant
+unfezant-female: Unfezant (Female)
+roggenrola: Roggenrola
+boldore: Boldore
+gigalith: Gigalith
+woobat: Woobat
+swoobat: Swoobat
+drilbur: Drilbur
+excadrill: Excadrill
+audino: Audino
+timburr: Timburr
+gurdurr: Gurdurr
+conkeldurr: Conkeldurr
+tympole: Tympole
+palpitoad: Palpitoad
+seismitoad: Seismitoad
+throh: Throh
+sawk: Sawk
+venipede: Venipede
+whirlipede: Whirlipede
+scolipede: Scolipede
+cottonee: Cottonee
+whimsicott: Whimsicott
+petilil: Petilil
+lilligant: Lilligant
+basculin: Basculin
+basculin-blue-striped-form: Basculin (Blue-Striped Form)
+sandile: Sandile
+krokorok: Krokorok
+krookodile: Krookodile
+darumaka: Darumaka
+galarian-darumaka: Galarian Darumaka
+darmanitan: Darmanitan
+darmanitan-zen-mode: Darmanitan (Zen Mode)
+galarian-darmanitan: Galarian Darmanitan
+galarian-darmanitan-zen-mode: Galarian Darmanitan (Zen Mode)
+maractus: Maractus
+dwebble: Dwebble
+crustle: Crustle
+scraggy: Scraggy
+scrafty: Scrafty
+sigilyph: Sigilyph
+yamask: Yamask
+galarian-yamask: Galarian Yamask
+cofagrigus: Cofagrigus
+tirtouga: Tirtouga
+carracosta: Carracosta
+archen: Archen
+archeops: Archeops
+trubbish: Trubbish
+garbodor: Garbodor
+garbodor-gmax: Garbodor-Gmax
+zorua: Zorua
+zoroark: Zoroark
+minccino: Minccino
+cinccino: Cinccino
+gothita: Gothita
+gothorita: Gothorita
+gothitelle: Gothitelle
+solosis: Solosis
+duosion: Duosion
+reuniclus: Reuniclus
+vanillite: Vanillite
+vanillish: Vanillish
+vanilluxe: Vanilluxe
+emolga: Emolga
+karrablast: Karrablast
+escavalier: Escavalier
+foongus: Foongus
+amoonguss: Amoonguss
+frillish: Frillish
+frillish-female: Frillish (Female)
+jellicent: Jellicent
+jellicent-female: Jellicent (Female)
+joltik: Joltik
+galvantula: Galvantula
+ferroseed: Ferroseed
+ferrothorn: Ferrothorn
+klink: Klink
+klang: Klang
+klinklang: Klinklang
+elgyem: Elgyem
+beheeyem: Beheeyem
+litwick: Litwick
+lampent: Lampent
+chandelure: Chandelure
+axew: Axew
+fraxure: Fraxure
+haxorus: Haxorus
+cubchoo: Cubchoo
+beartic: Beartic
+cryogonal: Cryogonal
+shelmet: Shelmet
+accelgor: Accelgor
+stunfisk: Stunfisk
+galarian-stunfisk: Galarian Stunfisk
+mienfoo: Mienfoo
+mienshao: Mienshao
+druddigon: Druddigon
+golett: Golett
+golurk: Golurk
+pawniard: Pawniard
+bisharp: Bisharp
+bouffalant: Bouffalant
+rufflet: Rufflet
+braviary: Braviary
+vullaby: Vullaby
+mandibuzz: Mandibuzz
+heatmor: Heatmor
+durant: Durant
+deino: Deino
+zweilous: Zweilous
+hydreigon: Hydreigon
+larvesta: Larvesta
+volcarona: Volcarona
+cobalion: Cobalion
+terrakion: Terrakion
+virizion: Virizion
+tornadus: Tornadus
+tornadus-therian-form: Tornadus (Therian Form)
+thundurus: Thundurus
+thundurus-therian-form: Thundurus (Therian Form)
+reshiram: Reshiram
+zekrom: Zekrom
+landorus: Landorus
+landorus-therian-form: Landorus (Therian Form)
+kyurem: Kyurem
+kyurem-white: Kyurem (White)
+kyurem-black: Kyurem (Black)
+keldeo: Keldeo
+keldeo-resolute-form: Keldeo (Resolute Form)
+genesect: Genesect
+genesect-1: Genesect-1
+genesect-2: Genesect-2
+genesect-3: Genesect-3
+genesect-4: Genesect-4
+bunnelby: Bunnelby
+diggersby: Diggersby
+fletchling: Fletchling
+fletchinder: Fletchinder
+talonflame: Talonflame
+pancham: Pancham
+pangoro: Pangoro
+espurr: Espurr
+meowstic: Meowstic
+meowstic-female: Meowstic (Female)
+honedge: Honedge
+doublade: Doublade
+aegislash: Aegislash
+aegislash-blade-forme: Aegislash (Blade Forme)
+spritzee: Spritzee
+aromatisse: Aromatisse
+swirlix: Swirlix
+slurpuff: Slurpuff
+inkay: Inkay
+malamar: Malamar
+binacle: Binacle
+barbaracle: Barbaracle
+skrelp: Skrelp
+dragalge: Dragalge
+clauncher: Clauncher
+clawitzer: Clawitzer
+helioptile: Helioptile
+heliolisk: Heliolisk
+tyrunt: Tyrunt
+tyrantrum: Tyrantrum
+amaura: Amaura
+aurorus: Aurorus
+sylveon: Sylveon
+hawlucha: Hawlucha
+dedenne: Dedenne
+carbink: Carbink
+goomy: Goomy
+sliggoo: Sliggoo
+goodra: Goodra
+klefki: Klefki
+phantump: Phantump
+trevenant: Trevenant
+pumpkaboo: Pumpkaboo
+gourgeist: Gourgeist
+bergmite: Bergmite
+avalugg: Avalugg
+noibat: Noibat
+noivern: Noivern
+xerneas: Xerneas
+xerneas-active-mode: Xerneas (Active Mode)
+yveltal: Yveltal
+zygarde: Zygarde
+zygarde-10-form: Zygarde (10% Form)
+zygarde-complete-form: Zygarde (Complete Form)
+diancie: Diancie
+volcanion: Volcanion
+rowlet: Rowlet
+dartrix: Dartrix
+decidueye: Decidueye
+litten: Litten
+torracat: Torracat
+incineroar: Incineroar
+popplio: Popplio
+brionne: Brionne
+primarina: Primarina
+grubbin: Grubbin
+charjabug: Charjabug
+vikavolt: Vikavolt
+cutiefly: Cutiefly
+ribombee: Ribombee
+rockruff: Rockruff
+lycanroc-midday-form: Lycanroc (Midday Form)
+lycanroc-midnight-form: Lycanroc (Midnight Form)
+lycanroc-dusk-form: Lycanroc (Dusk Form)
+wishiwashi-solo-form: Wishiwashi (Solo Form)
+wishiwashi: Wishiwashi
+mareanie: Mareanie
+toxapex: Toxapex
+mudbray: Mudbray
+mudsdale: Mudsdale
+dewpider: Dewpider
+araquanid: Araquanid
+fomantis: Fomantis
+lurantis: Lurantis
+morelull: Morelull
+shiinotic: Shiinotic
+salandit: Salandit
+salazzle: Salazzle
+stufful: Stufful
+bewear: Bewear
+bounsweet: Bounsweet
+steenee: Steenee
+tsareena: Tsareena
+comfey: Comfey
+oranguru: Oranguru
+passimian: Passimian
+wimpod: Wimpod
+golisopod: Golisopod
+sandygast: Sandygast
+palossand: Palossand
+pyukumuku: Pyukumuku
+type-null: "Type: Null"
+silvally: Silvally
+turtonator: Turtonator
+togedemaru: Togedemaru
+mimikyu: Mimikyu
+drampa: Drampa
+dhelmise: Dhelmise
+jangmo-o: Jangmo-o
+hakamo-o: Hakamo-o
+kommo-o: Kommo-o
+tapu-koko: Tapu Koko
+tapu-lele: Tapu Lele
+tapu-bulu: Tapu Bulu
+tapu-fini: Tapu Fini
+cosmog: Cosmog
+cosmoem: Cosmoem
+solgaleo: Solgaleo
+lunala: Lunala
+nihilego: Nihilego
+buzzwole: Buzzwole
+pheromosa: Pheromosa
+xurkitree: Xurkitree
+celesteela: Celesteela
+kartana: Kartana
+guzzlord: Guzzlord
+necrozma: Necrozma
+necrozma-dusk-mane: Necrozma (Dusk Mane)
+necrozma-dawn-wings: Necrozma (Dawn Wings)
+magearna: Magearna
+magearna-original-color: Magearna (Original Color)
+marshadow: Marshadow
+poipole: Poipole
+naganadel: Naganadel
+stakataka: Stakataka
+blacephalon: Blacephalon
+zeraora: Zeraora
+meltan: Meltan
+melmetal: Melmetal
+melmetal-gmax: Melmetal-Gmax
+grookey: Grookey
+thwackey: Thwackey
+rillaboom: Rillaboom
+rillaboom-gmax: Rillaboom-Gmax
+scorbunny: Scorbunny
+raboot: Raboot
+cinderace: Cinderace
+cinderace-gmax: Cinderace-Gmax
+sobble: Sobble
+drizzile: Drizzile
+inteleon: Inteleon
+inteleon-gmax: Inteleon-Gmax
+skwovet: Skwovet
+greedent: Greedent
+rookidee: Rookidee
+corvisquire: Corvisquire
+corviknight: Corviknight
+corviknight-gmax: Corviknight-Gmax
+blipbug: Blipbug
+dottler: Dottler
+orbeetle: Orbeetle
+orbeetle-gmax: Orbeetle-Gmax
+nickit: Nickit
+thievul: Thievul
+gossifleur: Gossifleur
+eldegoss: Eldegoss
+wooloo: Wooloo
+dubwool: Dubwool
+chewtle: Chewtle
+drednaw: Drednaw
+drednaw-gmax: Drednaw-Gmax
+yamper: Yamper
+boltund: Boltund
+rolycoly: Rolycoly
+carkol: Carkol
+coalossal: Coalossal
+coalossal-gmax: Coalossal-Gmax
+applin: Applin
+flapple: Flapple
+appletun: Appletun
+appletun-gmax: Appletun-Gmax
+silicobra: Silicobra
+sandaconda: Sandaconda
+sandaconda-gmax: Sandaconda-Gmax
+cramorant: Cramorant
+cramorant-gulping-form: Cramorant (Gulping Form)
+cramorant-gorging-form: Cramorant (Gorging Form)
+arrokuda: Arrokuda
+barraskewda: Barraskewda
+toxel: Toxel
+toxtricity: Toxtricity
+toxtricity-low-key-form: Toxtricity (Low Key Form)
+toxtricity-gmax: Toxtricity-Gmax
+sizzlipede: Sizzlipede
+centiskorch: Centiskorch
+centiskorch-gmax: Centiskorch-Gmax
+clobbopus: Clobbopus
+grapploct: Grapploct
+sinistea: Sinistea
+polteageist: Polteageist
+hatenna: Hatenna
+hattrem: Hattrem
+hatterene: Hatterene
+hatterene-gmax: Hatterene-Gmax
+impidimp: Impidimp
+morgrem: Morgrem
+grimmsnarl: Grimmsnarl
+grimmsnarl-gmax: Grimmsnarl-Gmax
+obstagoon: Obstagoon
+perrserker: Perrserker
+cursola: Cursola
+sirfetch-d: Sirfetch'd
+mr-rime: Mr. Rime
+runerigus: Runerigus
+milcery: Milcery
+alcremie: Alcremie
+alcremie-1: Alcremie-1
+alcremie-2: Alcremie-2
+alcremie-3: Alcremie-3
+alcremie-4: Alcremie-4
+alcremie-5: Alcremie-5
+alcremie-6: Alcremie-6
+alcremie-7: Alcremie-7
+alcremie-8: Alcremie-8
+alcremie-gmax: Alcremie-Gmax
+falinks: Falinks
+pincurchin: Pincurchin
+snom: Snom
+frosmoth: Frosmoth
+stonjourner: Stonjourner
+eiscue: Eiscue
+eiscue-noice-face: Eiscue (Noice Face)
+indeedee: Indeedee
+indeedee-female: Indeedee (Female)
+morpeko: Morpeko
+morpeko-hangry-mode: Morpeko (Hangry Mode)
+cufant: Cufant
+copperajah: Copperajah
+copperajah-gmax: Copperajah-Gmax
+dracozolt: Dracozolt
+arctozolt: Arctozolt
+dracovish: Dracovish
+arctovish: Arctovish
+duraludon: Duraludon
+duraludon-gmax: Duraludon-Gmax
+dreepy: Dreepy
+drakloak: Drakloak
+dragapult: Dragapult
+zacian: Zacian
+zacian-crowned-sword: Zacian (Crowned Sword)
+zamazenta: Zamazenta
+zamazenta-crowned-shield: Zamazenta (Crowned Shield)
+eternatus: Eternatus
+eternatus-eternamax: Eternatus (Eternamax)
+kubfu: Kubfu
+urshifu: Urshifu
+urshifu-gmax-single-strike-style: Urshifu-Gmax (Single Strike Style)
+urshifu-gmax-rapid-strike-style: Urshifu-Gmax (Rapid Strike Style)
+zarude: Zarude
+zarude-dada: Zarude (Dada)
+regieleki: Regieleki
+regidrago: Regidrago
+glastrier: Glastrier
+spectrier: Spectrier
+calyrex: Calyrex
+calyrex-ice-rider: Calyrex (Ice Rider)
+calyrex-shadow-rider: Calyrex (Shadow Rider)
+unknown: Unknown
+egg: Egg
