@@ -1,4 +1,4 @@
-block-size: [56, 68]
+block-size: [112, 136]
 data:
   - "bulbasaur"
   - "ivysaur"
