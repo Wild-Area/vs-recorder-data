@@ -1,0 +1,8 @@
+block-size: [24, 24]
+# TODO
+indices:
+  - 3
+  - 5
+data:
+  - absorb-bulb
+  - adamant-orb
