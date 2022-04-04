@@ -18,20 +18,20 @@ data:
   - butterfree-gmax
   - pikachu
   - pikachu-gmax
-  - pikachu-hat1
-  - pikachu-hat2
-  - pikachu-hat3
-  - pikachu-hat4
-  - pikachu-hat5
-  - pikachu-hat6
-  - pikachu-hat7
-  - pikachu-hat8
+  - pikachu-original
+  - pikachu-hoeen
+  - pikachu-sinnoh
+  - pikachu-unova
+  - pikachu-kalos
+  - pikachu-alola
+  - pikachu-partner
+  - pikachu-world
   - raichu
-  - alolan-raichu
+  - raichu-alola
   - sandshrew
-  - alolan-sandshrew
+  - sandshrew-alola
   - sandslash
-  - alolan-sandslash
+  - sandslash-alola
   - nidoran♀
   - nidorina
   - nidoqueen
@@ -41,9 +41,9 @@ data:
   - clefairy
   - clefable
   - vulpix
-  - alolan-vulpix
+  - vulpix-alola
   - ninetales
-  - alolan-ninetales
+  - ninetales-alola
   - jigglypuff
   - wigglytuff
   - zubat
@@ -52,15 +52,15 @@ data:
   - gloom
   - vileplume
   - diglett
-  - alolan-diglett
+  - diglett-alola
   - dugtrio
-  - alolan-dugtrio
+  - dugtrio-alola
   - meowth
   - meowth-gmax
-  - alolan-meowth
-  - galarian-meowth
+  - meowth-alola
+  - meowth-galar
   - persian
-  - alolan-persian
+  - persian-alola
   - psyduck
   - golduck
   - growlithe
@@ -78,17 +78,17 @@ data:
   - tentacool
   - tentacruel
   - ponyta
-  - galarian-ponyta
+  - ponyta-galar
   - rapidash
-  - galarian-rapidash
+  - rapidash-galar
   - slowpoke
-  - galarian-slowpoke
+  - slowpoke-galar
   - slowbro
-  - galarian-slowbro
+  - slowbro-galar
   - magnemite
   - magneton
-  - farfetch-d
-  - galarian-farfetch-d
+  - farfetch-u2019d
+  - farfetch-u2019d-galar
   - shellder
   - cloyster
   - gastly
@@ -98,19 +98,18 @@ data:
   - onix
   - krabby
   - kingler
-  - kingler
   - exeggcute
   - exeggutor
-  - alolan-exeggutor
+  - exeggutor-alola
   - cubone
   - marowak
-  - alolan-marowak
+  - marowak-alola
   - hitmonlee
   - hitmonchan
   - lickitung
   - koffing
   - weezing
-  - galarian-weezing
+  - weezing-galar
   - rhyhorn
   - rhydon
   - chansey
@@ -123,7 +122,7 @@ data:
   - staryu
   - starmie
   - mr-mime
-  - galarian-mr-mime
+  - mr-mime-galar
   - scyther
   - jynx
   - electabuzz
@@ -149,11 +148,11 @@ data:
   - snorlax
   - snorlax-gmax
   - articuno
-  - galarian-articuno
+  - articuno-galar
   - zapdos
-  - galarian-zapdos
+  - zapdos-galar
   - moltres
-  - galarian-moltres
+  - moltres-galar
   - dratini
   - dragonair
   - dragonite
@@ -181,7 +180,7 @@ data:
   - espeon
   - umbreon
   - slowking
-  - galarian-slowking
+  - slowking-galar
   - wobbuffet
   - dunsparce
   - steelix
@@ -193,7 +192,7 @@ data:
   - swinub
   - piloswine
   - corsola
-  - galarian-corsola
+  - corsola-galar
   - remoraid
   - octillery
   - delibird
@@ -228,9 +227,9 @@ data:
   - marshtomp
   - swampert
   - zigzagoon
-  - galarian-zigzagoon
+  - zigzagoon-galar
   - linoone
-  - galarian-linoone
+  - linoone-galar
   - lotad
   - lombre
   - ludicolo
@@ -315,11 +314,11 @@ data:
   - vespiquen
   - cherubi
   - cherrim
-  - cherrim-sunshine-form
+  - cherrim-sunshine
   - shellos
-  - shellos-east-sea
+  - shellos-east
   - gastrodon
-  - gastrodon-east-sea
+  - gastrodon-east
   - drifloon
   - drifblim
   - buneary
@@ -329,7 +328,7 @@ data:
   - bronzor
   - bronzong
   - bonsly
-  - mime-jr-
+  - mime-jr
   - happiny
   - spiritomb
   - gible
@@ -363,11 +362,11 @@ data:
   - dusknoir
   - froslass
   - rotom
-  - heat-rotom
-  - wash-rotom
-  - frost-rotom
-  - fan-rotom
-  - mow-rotom
+  - rotom-heat
+  - rotom-wash
+  - rotom-frost
+  - rotom-fan
+  - rotom-mow
   - uxie
   - mesprit
   - azelf
@@ -376,7 +375,7 @@ data:
   - heatran
   - regigigas
   - giratina
-  - giratina-origin-form
+  - giratina-origin
   - cresselia
   - victini
   - lillipup
@@ -389,7 +388,7 @@ data:
   - pidove
   - tranquill
   - unfezant
-  - unfezant-female
+  - unfezant-f
   - roggenrola
   - boldore
   - gigalith
@@ -414,16 +413,16 @@ data:
   - petilil
   - lilligant
   - basculin
-  - basculin-blue-striped-form
+  - basculin-blue-striped
   - sandile
   - krokorok
   - krookodile
   - darumaka
-  - galarian-darumaka
+  - darumaka-galar
   - darmanitan
-  - darmanitan-zen-mode
-  - galarian-darmanitan
-  - galarian-darmanitan-zen-mode
+  - darmanitan-zen
+  - darmanitan-galar
+  - darmanitan-galar-zen
   - maractus
   - dwebble
   - crustle
@@ -431,7 +430,7 @@ data:
   - scrafty
   - sigilyph
   - yamask
-  - galarian-yamask
+  - yamask-galar
   - cofagrigus
   - tirtouga
   - carracosta
@@ -459,9 +458,9 @@ data:
   - foongus
   - amoonguss
   - frillish
-  - frillish-female
+  - frillish-f
   - jellicent
-  - jellicent-female
+  - jellicent-f
   - joltik
   - galvantula
   - ferroseed
@@ -483,7 +482,7 @@ data:
   - shelmet
   - accelgor
   - stunfisk
-  - galarian-stunfisk
+  - stunfisk-galar
   - mienfoo
   - mienshao
   - druddigon
@@ -507,23 +506,23 @@ data:
   - terrakion
   - virizion
   - tornadus
-  - tornadus-therian-form
+  - tornadus-therian
   - thundurus
-  - thundurus-therian-form
+  - thundurus-therian
   - reshiram
   - zekrom
   - landorus
-  - landorus-therian-form
+  - landorus-therian
   - kyurem
   - kyurem-white
   - kyurem-black
   - keldeo
-  - keldeo-resolute-form
+  - keldeo-resolute
   - genesect
-  - genesect-1
-  - genesect-2
-  - genesect-3
-  - genesect-4
+  - genesect-burn
+  - genesect-chill
+  - genesect-douse
+  - genesect-shock
   - bunnelby
   - diggersby
   - fletchling
@@ -533,11 +532,11 @@ data:
   - pangoro
   - espurr
   - meowstic
-  - meowstic-female
+  - meowstic-f
   - honedge
   - doublade
   - aegislash
-  - aegislash-blade-forme
+  - aegislash-blade
   - spritzee
   - aromatisse
   - swirlix
@@ -572,12 +571,12 @@ data:
   - avalugg
   - noibat
   - noivern
+  - xerneas-neutral
   - xerneas
-  - xerneas-active-mode
   - yveltal
   - zygarde
-  - zygarde-10-form
-  - zygarde-complete-form
+  - zygarde-10
+  - zygarde-complete
   - diancie
   - volcanion
   - rowlet
@@ -595,11 +594,11 @@ data:
   - cutiefly
   - ribombee
   - rockruff
-  - lycanroc-midday-form
-  - lycanroc-midnight-form
-  - lycanroc-dusk-form
-  - wishiwashi-solo-form
+  - lycanroc
+  - lycanroc-midnight
+  - lycanroc-dusk
   - wishiwashi
+  - wishiwashi-school
   - mareanie
   - toxapex
   - mudbray
@@ -654,7 +653,7 @@ data:
   - necrozma-dusk-mane
   - necrozma-dawn-wings
   - magearna
-  - magearna-original-color
+  - magearna-original
   - marshadow
   - poipole
   - naganadel
@@ -709,14 +708,15 @@ data:
   - sandaconda
   - sandaconda-gmax
   - cramorant
-  - cramorant-gulping-form
-  - cramorant-gorging-form
+  - cramorant-gulping
+  - cramorant-gorging
   - arrokuda
   - barraskewda
   - toxel
   - toxtricity
-  - toxtricity-low-key-form
+  - toxtricity-low-key
   - toxtricity-gmax
+  - toxtricity-low-key-gmax
   - sizzlipede
   - centiskorch
   - centiskorch-gmax
@@ -735,19 +735,19 @@ data:
   - obstagoon
   - perrserker
   - cursola
-  - sirfetch-d
+  - sirfetch-u2019d
   - mr-rime
   - runerigus
   - milcery
   - alcremie
-  - alcremie-1
-  - alcremie-2
-  - alcremie-3
-  - alcremie-4
-  - alcremie-5
-  - alcremie-6
-  - alcremie-7
-  - alcremie-8
+  - alcremie-ruby-cream
+  - alcremie-matcha-cream
+  - alcremie-mint-cream
+  - alcremie-lemon-cream
+  - alcremie-salted-cream
+  - alcremie-ruby-swirl
+  - alcremie-caramel-swirl
+  - alcremie-rainbow-swirl
   - alcremie-gmax
   - falinks
   - pincurchin
@@ -755,11 +755,11 @@ data:
   - frosmoth
   - stonjourner
   - eiscue
-  - eiscue-noice-face
+  - eiscue-noice
   - indeedee
-  - indeedee-female
+  - indeedee-f
   - morpeko
-  - morpeko-hangry-mode
+  - morpeko-hangry
   - cufant
   - copperajah
   - copperajah-gmax
@@ -773,15 +773,15 @@ data:
   - drakloak
   - dragapult
   - zacian
-  - zacian-crowned-sword
+  - zacian-crowned
   - zamazenta
-  - zamazenta-crowned-shield
+  - zamazenta-crowned
   - eternatus
   - eternatus-eternamax
   - kubfu
   - urshifu
-  - urshifu-gmax-single-strike-style
-  - urshifu-gmax-rapid-strike-style
+  - urshifu-gmax
+  - urshifu-rapid-strike-gmax
   - zarude
   - zarude-dada
   - regieleki
@@ -789,7 +789,7 @@ data:
   - glastrier
   - spectrier
   - calyrex
-  - calyrex-ice-rider
-  - calyrex-shadow-rider
+  - calyrex-ice
+  - calyrex-shadow
   - unknown
   - egg

@@ -16,20 +16,20 @@ butterfree: Butterfree
 butterfree-gmax: Butterfree-Gmax
 pikachu: Pikachu
 pikachu-gmax: Pikachu-Gmax
-pikachu-hat1: Pikachu-Hat1
-pikachu-hat2: Pikachu-Hat2
-pikachu-hat3: Pikachu-Hat3
-pikachu-hat4: Pikachu-Hat4
-pikachu-hat5: Pikachu-Hat5
-pikachu-hat6: Pikachu-Hat6
-pikachu-hat7: Pikachu-Hat7
-pikachu-hat8: Pikachu-Hat8
+pikachu-original: Pikachu-Original
+pikachu-hoeen: Pikachu-Hoeen
+pikachu-sinnoh: Pikachu-Sinnoh
+pikachu-unova: Pikachu-Unova
+pikachu-kalos: Pikachu-Kalos
+pikachu-alola: Pikachu-Alola
+pikachu-partner: Pikachu-Partner
+pikachu-world: Pikachu-World
 raichu: Raichu
-alolan-raichu: Alolan Raichu
+raichu-alola: Raichu-Alola
 sandshrew: Sandshrew
-alolan-sandshrew: Alolan Sandshrew
+sandshrew-alola: Sandshrew-Alola
 sandslash: Sandslash
-alolan-sandslash: Alolan Sandslash
+sandslash-alola: Sandslash-Alola
 nidoran♀: Nidoran♀
 nidorina: Nidorina
 nidoqueen: Nidoqueen
@@ -39,9 +39,9 @@ nidoking: Nidoking
 clefairy: Clefairy
 clefable: Clefable
 vulpix: Vulpix
-alolan-vulpix: Alolan Vulpix
+vulpix-alola: Vulpix-Alola
 ninetales: Ninetales
-alolan-ninetales: Alolan Ninetales
+ninetales-alola: Ninetales-Alola
 jigglypuff: Jigglypuff
 wigglytuff: Wigglytuff
 zubat: Zubat
@@ -50,15 +50,15 @@ oddish: Oddish
 gloom: Gloom
 vileplume: Vileplume
 diglett: Diglett
-alolan-diglett: Alolan Diglett
+diglett-alola: Diglett-Alola
 dugtrio: Dugtrio
-alolan-dugtrio: Alolan Dugtrio
+dugtrio-alola: Dugtrio-Alola
 meowth: Meowth
 meowth-gmax: Meowth-Gmax
-alolan-meowth: Alolan Meowth
-galarian-meowth: Galarian Meowth
+meowth-alola: Meowth-Alola
+meowth-galar: Meowth-Galar
 persian: Persian
-alolan-persian: Alolan Persian
+persian-alola: Persian-Alola
 psyduck: Psyduck
 golduck: Golduck
 growlithe: Growlithe
@@ -76,17 +76,17 @@ machamp-gmax: Machamp-Gmax
 tentacool: Tentacool
 tentacruel: Tentacruel
 ponyta: Ponyta
-galarian-ponyta: Galarian Ponyta
+ponyta-galar: Ponyta-Galar
 rapidash: Rapidash
-galarian-rapidash: Galarian Rapidash
+rapidash-galar: Rapidash-Galar
 slowpoke: Slowpoke
-galarian-slowpoke: Galarian Slowpoke
+slowpoke-galar: Slowpoke-Galar
 slowbro: Slowbro
-galarian-slowbro: Galarian Slowbro
+slowbro-galar: Slowbro-Galar
 magnemite: Magnemite
 magneton: Magneton
-farfetch-d: Farfetch'd
-galarian-farfetch-d: Galarian Farfetch'd
+farfetch-u2019d: Farfetch\\\\u2019d
+farfetch-u2019d-galar: Farfetch\\\\u2019d-Galar
 shellder: Shellder
 cloyster: Cloyster
 gastly: Gastly
@@ -96,19 +96,18 @@ gengar-gmax: Gengar-Gmax
 onix: Onix
 krabby: Krabby
 kingler: Kingler
-kingler: Kingler
 exeggcute: Exeggcute
 exeggutor: Exeggutor
-alolan-exeggutor: Alolan Exeggutor
+exeggutor-alola: Exeggutor-Alola
 cubone: Cubone
 marowak: Marowak
-alolan-marowak: Alolan Marowak
+marowak-alola: Marowak-Alola
 hitmonlee: Hitmonlee
 hitmonchan: Hitmonchan
 lickitung: Lickitung
 koffing: Koffing
 weezing: Weezing
-galarian-weezing: Galarian Weezing
+weezing-galar: Weezing-Galar
 rhyhorn: Rhyhorn
 rhydon: Rhydon
 chansey: Chansey
@@ -121,7 +120,7 @@ seaking: Seaking
 staryu: Staryu
 starmie: Starmie
 mr-mime: Mr. Mime
-galarian-mr-mime: Galarian Mr. Mime
+mr-mime-galar: Mr. Mime-Galar
 scyther: Scyther
 jynx: Jynx
 electabuzz: Electabuzz
@@ -147,11 +146,11 @@ aerodactyl: Aerodactyl
 snorlax: Snorlax
 snorlax-gmax: Snorlax-Gmax
 articuno: Articuno
-galarian-articuno: Galarian Articuno
+articuno-galar: Articuno-Galar
 zapdos: Zapdos
-galarian-zapdos: Galarian Zapdos
+zapdos-galar: Zapdos-Galar
 moltres: Moltres
-galarian-moltres: Galarian Moltres
+moltres-galar: Moltres-Galar
 dratini: Dratini
 dragonair: Dragonair
 dragonite: Dragonite
@@ -179,7 +178,7 @@ quagsire: Quagsire
 espeon: Espeon
 umbreon: Umbreon
 slowking: Slowking
-galarian-slowking: Galarian Slowking
+slowking-galar: Slowking-Galar
 wobbuffet: Wobbuffet
 dunsparce: Dunsparce
 steelix: Steelix
@@ -191,7 +190,7 @@ sneasel: Sneasel
 swinub: Swinub
 piloswine: Piloswine
 corsola: Corsola
-galarian-corsola: Galarian Corsola
+corsola-galar: Corsola-Galar
 remoraid: Remoraid
 octillery: Octillery
 delibird: Delibird
@@ -212,9 +211,9 @@ suicune: Suicune
 larvitar: Larvitar
 pupitar: Pupitar
 tyranitar: Tyranitar
-tyranitar-old: Tyranitar-Old
+tyranitar-old: Tyranitar
 lugia: Lugia
-ho-oh: Ho-oh
+ho-oh: Ho-Oh
 celebi: Celebi
 treecko: Treecko
 grovyle: Grovyle
@@ -226,9 +225,9 @@ mudkip: Mudkip
 marshtomp: Marshtomp
 swampert: Swampert
 zigzagoon: Zigzagoon
-galarian-zigzagoon: Galarian Zigzagoon
+zigzagoon-galar: Zigzagoon-Galar
 linoone: Linoone
-galarian-linoone: Galarian Linoone
+linoone-galar: Linoone-Galar
 lotad: Lotad
 lombre: Lombre
 ludicolo: Ludicolo
@@ -313,11 +312,11 @@ combee: Combee
 vespiquen: Vespiquen
 cherubi: Cherubi
 cherrim: Cherrim
-cherrim-sunshine-form: Cherrim (Sunshine Form)
+cherrim-sunshine: Cherrim-Sunshine
 shellos: Shellos
-shellos-east-sea: Shellos (East Sea)
+shellos-east: Shellos-East
 gastrodon: Gastrodon
-gastrodon-east-sea: Gastrodon (East Sea)
+gastrodon-east: Gastrodon-East
 drifloon: Drifloon
 drifblim: Drifblim
 buneary: Buneary
@@ -327,7 +326,7 @@ skuntank: Skuntank
 bronzor: Bronzor
 bronzong: Bronzong
 bonsly: Bonsly
-mime-jr-: Mime Jr.
+mime-jr: Mime Jr.
 happiny: Happiny
 spiritomb: Spiritomb
 gible: Gible
@@ -361,11 +360,11 @@ gallade: Gallade
 dusknoir: Dusknoir
 froslass: Froslass
 rotom: Rotom
-heat-rotom: Heat Rotom
-wash-rotom: Wash Rotom
-frost-rotom: Frost Rotom
-fan-rotom: Fan Rotom
-mow-rotom: Mow Rotom
+rotom-heat: Rotom-Heat
+rotom-wash: Rotom-Wash
+rotom-frost: Rotom-Frost
+rotom-fan: Rotom-Fan
+rotom-mow: Rotom-Mow
 uxie: Uxie
 mesprit: Mesprit
 azelf: Azelf
@@ -374,7 +373,7 @@ palkia: Palkia
 heatran: Heatran
 regigigas: Regigigas
 giratina: Giratina
-giratina-origin-form: Giratina (Origin Form)
+giratina-origin: Giratina-Origin
 cresselia: Cresselia
 victini: Victini
 lillipup: Lillipup
@@ -387,7 +386,7 @@ musharna: Musharna
 pidove: Pidove
 tranquill: Tranquill
 unfezant: Unfezant
-unfezant-female: Unfezant (Female)
+unfezant-f: Unfezant (F)
 roggenrola: Roggenrola
 boldore: Boldore
 gigalith: Gigalith
@@ -412,16 +411,16 @@ whimsicott: Whimsicott
 petilil: Petilil
 lilligant: Lilligant
 basculin: Basculin
-basculin-blue-striped-form: Basculin (Blue-Striped Form)
+basculin-blue-striped: Basculin-Blue-Striped
 sandile: Sandile
 krokorok: Krokorok
 krookodile: Krookodile
 darumaka: Darumaka
-galarian-darumaka: Galarian Darumaka
+darumaka-galar: Darumaka-Galar
 darmanitan: Darmanitan
-darmanitan-zen-mode: Darmanitan (Zen Mode)
-galarian-darmanitan: Galarian Darmanitan
-galarian-darmanitan-zen-mode: Galarian Darmanitan (Zen Mode)
+darmanitan-zen: Darmanitan-Zen
+darmanitan-galar: Darmanitan-Galar
+darmanitan-galar-zen: Darmanitan-Galar-Zen
 maractus: Maractus
 dwebble: Dwebble
 crustle: Crustle
@@ -429,7 +428,7 @@ scraggy: Scraggy
 scrafty: Scrafty
 sigilyph: Sigilyph
 yamask: Yamask
-galarian-yamask: Galarian Yamask
+yamask-galar: Yamask-Galar
 cofagrigus: Cofagrigus
 tirtouga: Tirtouga
 carracosta: Carracosta
@@ -457,9 +456,9 @@ escavalier: Escavalier
 foongus: Foongus
 amoonguss: Amoonguss
 frillish: Frillish
-frillish-female: Frillish (Female)
+frillish-f: Frillish (F)
 jellicent: Jellicent
-jellicent-female: Jellicent (Female)
+jellicent-f: Jellicent (F)
 joltik: Joltik
 galvantula: Galvantula
 ferroseed: Ferroseed
@@ -481,7 +480,7 @@ cryogonal: Cryogonal
 shelmet: Shelmet
 accelgor: Accelgor
 stunfisk: Stunfisk
-galarian-stunfisk: Galarian Stunfisk
+stunfisk-galar: Stunfisk-Galar
 mienfoo: Mienfoo
 mienshao: Mienshao
 druddigon: Druddigon
@@ -505,23 +504,23 @@ cobalion: Cobalion
 terrakion: Terrakion
 virizion: Virizion
 tornadus: Tornadus
-tornadus-therian-form: Tornadus (Therian Form)
+tornadus-therian: Tornadus-Therian
 thundurus: Thundurus
-thundurus-therian-form: Thundurus (Therian Form)
+thundurus-therian: Thundurus-Therian
 reshiram: Reshiram
 zekrom: Zekrom
 landorus: Landorus
-landorus-therian-form: Landorus (Therian Form)
+landorus-therian: Landorus-Therian
 kyurem: Kyurem
-kyurem-white: Kyurem (White)
-kyurem-black: Kyurem (Black)
+kyurem-white: Kyurem-White
+kyurem-black: Kyurem-Black
 keldeo: Keldeo
-keldeo-resolute-form: Keldeo (Resolute Form)
+keldeo-resolute: Keldeo-Resolute
 genesect: Genesect
-genesect-1: Genesect-1
-genesect-2: Genesect-2
-genesect-3: Genesect-3
-genesect-4: Genesect-4
+genesect-burn: Genesect-Burn
+genesect-chill: Genesect-Chill
+genesect-douse: Genesect-Douse
+genesect-shock: Genesect-Shock
 bunnelby: Bunnelby
 diggersby: Diggersby
 fletchling: Fletchling
@@ -531,11 +530,11 @@ pancham: Pancham
 pangoro: Pangoro
 espurr: Espurr
 meowstic: Meowstic
-meowstic-female: Meowstic (Female)
+meowstic-f: Meowstic-F
 honedge: Honedge
 doublade: Doublade
 aegislash: Aegislash
-aegislash-blade-forme: Aegislash (Blade Forme)
+aegislash-blade: Aegislash-Blade
 spritzee: Spritzee
 aromatisse: Aromatisse
 swirlix: Swirlix
@@ -570,12 +569,12 @@ bergmite: Bergmite
 avalugg: Avalugg
 noibat: Noibat
 noivern: Noivern
+xerneas-neutral: Xerneas-Neutral
 xerneas: Xerneas
-xerneas-active-mode: Xerneas (Active Mode)
 yveltal: Yveltal
 zygarde: Zygarde
-zygarde-10-form: Zygarde (10% Form)
-zygarde-complete-form: Zygarde (Complete Form)
+zygarde-10: Zygarde-10%
+zygarde-complete: Zygarde-Complete
 diancie: Diancie
 volcanion: Volcanion
 rowlet: Rowlet
@@ -593,11 +592,11 @@ vikavolt: Vikavolt
 cutiefly: Cutiefly
 ribombee: Ribombee
 rockruff: Rockruff
-lycanroc-midday-form: Lycanroc (Midday Form)
-lycanroc-midnight-form: Lycanroc (Midnight Form)
-lycanroc-dusk-form: Lycanroc (Dusk Form)
-wishiwashi-solo-form: Wishiwashi (Solo Form)
+lycanroc: Lycanroc
+lycanroc-midnight: Lycanroc-Midnight
+lycanroc-dusk: Lycanroc-Dusk
 wishiwashi: Wishiwashi
+wishiwashi-school: Wishiwashi-School
 mareanie: Mareanie
 toxapex: Toxapex
 mudbray: Mudbray
@@ -649,10 +648,10 @@ celesteela: Celesteela
 kartana: Kartana
 guzzlord: Guzzlord
 necrozma: Necrozma
-necrozma-dusk-mane: Necrozma (Dusk Mane)
-necrozma-dawn-wings: Necrozma (Dawn Wings)
+necrozma-dusk-mane: Necrozma-Dusk-Mane
+necrozma-dawn-wings: Necrozma-Dawn-Wings
 magearna: Magearna
-magearna-original-color: Magearna (Original Color)
+magearna-original: Magearna-Original
 marshadow: Marshadow
 poipole: Poipole
 naganadel: Naganadel
@@ -707,14 +706,15 @@ silicobra: Silicobra
 sandaconda: Sandaconda
 sandaconda-gmax: Sandaconda-Gmax
 cramorant: Cramorant
-cramorant-gulping-form: Cramorant (Gulping Form)
-cramorant-gorging-form: Cramorant (Gorging Form)
+cramorant-gulping: Cramorant-Gulping
+cramorant-gorging: Cramorant-Gorging
 arrokuda: Arrokuda
 barraskewda: Barraskewda
 toxel: Toxel
 toxtricity: Toxtricity
-toxtricity-low-key-form: Toxtricity (Low Key Form)
+toxtricity-low-key: Toxtricity-Low-Key
 toxtricity-gmax: Toxtricity-Gmax
+toxtricity-low-key-gmax: Toxtricity-Low-Key-Gmax
 sizzlipede: Sizzlipede
 centiskorch: Centiskorch
 centiskorch-gmax: Centiskorch-Gmax
@@ -733,19 +733,19 @@ grimmsnarl-gmax: Grimmsnarl-Gmax
 obstagoon: Obstagoon
 perrserker: Perrserker
 cursola: Cursola
-sirfetch-d: Sirfetch'd
+sirfetch-u2019d: Sirfetch\\\\u2019d
 mr-rime: Mr. Rime
 runerigus: Runerigus
 milcery: Milcery
 alcremie: Alcremie
-alcremie-1: Alcremie-1
-alcremie-2: Alcremie-2
-alcremie-3: Alcremie-3
-alcremie-4: Alcremie-4
-alcremie-5: Alcremie-5
-alcremie-6: Alcremie-6
-alcremie-7: Alcremie-7
-alcremie-8: Alcremie-8
+alcremie-ruby-cream: Alcremie-Ruby-Cream
+alcremie-matcha-cream: Alcremie-Matcha-Cream
+alcremie-mint-cream: Alcremie-Mint-Cream
+alcremie-lemon-cream: Alcremie-Lemon-Cream
+alcremie-salted-cream: Alcremie-Salted-Cream
+alcremie-ruby-swirl: Alcremie-Ruby-Swirl
+alcremie-caramel-swirl: Alcremie-Caramel-Swirl
+alcremie-rainbow-swirl: Alcremie-Rainbow-Swirl
 alcremie-gmax: Alcremie-Gmax
 falinks: Falinks
 pincurchin: Pincurchin
@@ -753,11 +753,11 @@ snom: Snom
 frosmoth: Frosmoth
 stonjourner: Stonjourner
 eiscue: Eiscue
-eiscue-noice-face: Eiscue (Noice Face)
+eiscue-noice: Eiscue-Noice
 indeedee: Indeedee
-indeedee-female: Indeedee (Female)
+indeedee-f: Indeedee-F
 morpeko: Morpeko
-morpeko-hangry-mode: Morpeko (Hangry Mode)
+morpeko-hangry: Morpeko-Hangry
 cufant: Cufant
 copperajah: Copperajah
 copperajah-gmax: Copperajah-Gmax
@@ -771,23 +771,23 @@ dreepy: Dreepy
 drakloak: Drakloak
 dragapult: Dragapult
 zacian: Zacian
-zacian-crowned-sword: Zacian (Crowned Sword)
+zacian-crowned: Zacian-Crowned
 zamazenta: Zamazenta
-zamazenta-crowned-shield: Zamazenta (Crowned Shield)
+zamazenta-crowned: Zamazenta-Crowned
 eternatus: Eternatus
-eternatus-eternamax: Eternatus (Eternamax)
+eternatus-eternamax: Eternatus-Eternamax
 kubfu: Kubfu
 urshifu: Urshifu
-urshifu-gmax-single-strike-style: Urshifu-Gmax (Single Strike Style)
-urshifu-gmax-rapid-strike-style: Urshifu-Gmax (Rapid Strike Style)
+urshifu-gmax: Urshifu-Gmax
+urshifu-rapid-strike-gmax: Urshifu-Rapid-Strike-Gmax
 zarude: Zarude
-zarude-dada: Zarude (Dada)
+zarude-dada: Zarude-Dada
 regieleki: Regieleki
 regidrago: Regidrago
 glastrier: Glastrier
 spectrier: Spectrier
 calyrex: Calyrex
-calyrex-ice-rider: Calyrex (Ice Rider)
-calyrex-shadow-rider: Calyrex (Shadow Rider)
+calyrex-ice: Calyrex-Ice
+calyrex-shadow: Calyrex-Shadow
 unknown: Unknown
 egg: Egg
