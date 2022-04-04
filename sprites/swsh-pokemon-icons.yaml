@@ -32,10 +32,10 @@ data:
   - sandshrew-alola
   - sandslash
   - sandslash-alola
-  - nidoran♀
+  - nidoran-f
   - nidorina
   - nidoqueen
-  - nidoran♂
+  - nidoran-m
   - nidorino
   - nidoking
   - clefairy
@@ -87,8 +87,8 @@ data:
   - slowbro-galar
   - magnemite
   - magneton
-  - farfetch-u2019d
-  - farfetch-u2019d-galar
+  - farfetchd
+  - farfetchd-galar
   - shellder
   - cloyster
   - gastly
