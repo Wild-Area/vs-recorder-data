@@ -3728,7 +3728,7 @@ magneton:
   tier: "PU"
 farfetch-d:
   num: 83
-  name: "Farfetch’d"
+  name: "Farfetch'd"
   types:
     - "Normal"
     - "Flying"
@@ -3750,15 +3750,15 @@ farfetch-d:
     - "Flying"
     - "Field"
   otherFormes:
-    - "Farfetch’d-Galar"
+    - "Farfetch'd-Galar"
   formeOrder:
-    - "Farfetch’d"
-    - "Farfetch’d-Galar"
+    - "Farfetch'd"
+    - "Farfetch'd-Galar"
   tier: "(PU)"
 farfetch-d-galar:
   num: 83
-  name: "Farfetch’d-Galar"
-  baseSpecies: "Farfetch’d"
+  name: "Farfetch'd-Galar"
+  baseSpecies: "Farfetch'd"
   forme: "Galar"
   types:
     - "Fighting"
@@ -3776,7 +3776,7 @@ farfetch-d-galar:
   weightkg: 15
   color: "Brown"
   evos:
-    - "Sirfetch’d"
+    - "Sirfetch'd"
   eggGroups:
     - "Flying"
     - "Field"
@@ -22804,9 +22804,9 @@ pyroar:
     - "Field"
   tier: "Illegal"
   isNonstandard: "Past"
-flabe-be:
+flabebe:
   num: 669
-  name: "Flabébé"
+  name: "Flabébé"
   baseForme: "Red"
   types:
     - "Fairy"
@@ -22829,16 +22829,16 @@ flabe-be:
   eggGroups:
     - "Fairy"
   cosmeticFormes:
-    - "Flabébé-Blue"
-    - "Flabébé-Orange"
-    - "Flabébé-White"
-    - "Flabébé-Yellow"
+    - "Flabébé-Blue"
+    - "Flabébé-Orange"
+    - "Flabébé-White"
+    - "Flabébé-Yellow"
   formeOrder:
-    - "Flabébé"
-    - "Flabébé-Blue"
-    - "Flabébé-Orange"
-    - "Flabébé-White"
-    - "Flabébé-Yellow"
+    - "Flabébé"
+    - "Flabébé-Blue"
+    - "Flabébé-Orange"
+    - "Flabébé-White"
+    - "Flabébé-Yellow"
   tier: "Illegal"
   isNonstandard: "Past"
 floette:
@@ -22861,7 +22861,7 @@ floette:
   heightm: 0.2
   weightkg: 0.9
   color: "White"
-  prevo: "Flabébé"
+  prevo: "Flabébé"
   evoLevel: 19
   evos:
     - "Florges"
@@ -30090,7 +30090,7 @@ cursola:
   tier: "(PU)"
 sirfetch-d:
   num: 865
-  name: "Sirfetch’d"
+  name: "Sirfetch'd"
   types:
     - "Fighting"
   baseStats:
@@ -30106,7 +30106,7 @@ sirfetch-d:
   heightm: 0.8
   weightkg: 117
   color: "White"
-  prevo: "Farfetch’d-Galar"
+  prevo: "Farfetch'd-Galar"
   evoType: "other"
   evoCondition: "Land 3 critical hits in 1 battle"
   eggGroups:
