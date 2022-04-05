@@ -98,6 +98,7 @@ data:
   - onix
   - krabby
   - kingler
+  - kingler-gmax
   - exeggcute
   - exeggutor
   - exeggutor-alola
@@ -716,7 +717,6 @@ data:
   - toxtricity
   - toxtricity-low-key
   - toxtricity-gmax
-  - toxtricity-low-key-gmax
   - sizzlipede
   - centiskorch
   - centiskorch-gmax
