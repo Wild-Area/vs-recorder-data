@@ -1,4 +1,4 @@
-10000000-volt-thunderbolt: 10,000,000 Volt Thunderbolt
+10-000-000-volt-thunderbolt: 10,000,000 Volt Thunderbolt
 absorb: Absorb
 accelerock: Accelerock
 acid: Acid
@@ -65,8 +65,8 @@ body-slam: Body Slam
 bolt-beak: Bolt Beak
 bolt-strike: Bolt Strike
 bone-club: Bone Club
-bonemerang: Bonemerang
 bone-rush: Bone Rush
+bonemerang: Bonemerang
 boomburst: Boomburst
 bounce: Bounce
 bouncy-bubble: Bouncy Bubble
@@ -85,8 +85,8 @@ bulk-up: Bulk Up
 bulldoze: Bulldoze
 bullet-punch: Bullet Punch
 bullet-seed: Bullet Seed
-burning-jealousy: Burning Jealousy
 burn-up: Burn Up
+burning-jealousy: Burning Jealousy
 buzzy-buzz: Buzzy Buzz
 calm-mind: Calm Mind
 camouflage: Camouflage
@@ -134,9 +134,9 @@ crush-claw: Crush Claw
 crush-grip: Crush Grip
 curse: Curse
 cut: Cut
-darkest-lariat: Darkest Lariat
 dark-pulse: Dark Pulse
 dark-void: Dark Void
+darkest-lariat: Darkest Lariat
 dazzling-gleam: Dazzling Gleam
 decorate: Decorate
 defend-order: Defend Order
@@ -171,8 +171,8 @@ dragon-pulse: Dragon Pulse
 dragon-rage: Dragon Rage
 dragon-rush: Dragon Rush
 dragon-tail: Dragon Tail
-draining-kiss: Draining Kiss
 drain-punch: Drain Punch
+draining-kiss: Draining Kiss
 dream-eater: Dream Eater
 drill-peck: Drill Peck
 drill-run: Drill Run
@@ -251,7 +251,7 @@ focus-punch: Focus Punch
 follow-me: Follow Me
 force-palm: Force Palm
 foresight: Foresight
-forest-s-curse: Forest's Curse
+forest-s-curse: Forest’s Curse
 foul-play: Foul Play
 freeze-dry: Freeze-Dry
 freeze-shock: Freeze Shock
@@ -266,18 +266,6 @@ fury-swipes: Fury Swipes
 fusion-bolt: Fusion Bolt
 fusion-flare: Fusion Flare
 future-sight: Future Sight
-gastro-acid: Gastro Acid
-gear-grind: Gear Grind
-gear-up: Gear Up
-genesis-supernova: Genesis Supernova
-geomancy: Geomancy
-giga-drain: Giga Drain
-giga-impact: Giga Impact
-gigavolt-havoc: Gigavolt Havoc
-glacial-lance: Glacial Lance
-glaciate: Glaciate
-glare: Glare
-glitzy-glow: Glitzy Glow
 g-max-befuddle: G-Max Befuddle
 g-max-cannonade: G-Max Cannonade
 g-max-centiferno: G-Max Centiferno
@@ -311,6 +299,18 @@ g-max-volcalith: G-Max Volcalith
 g-max-volt-crash: G-Max Volt Crash
 g-max-wildfire: G-Max Wildfire
 g-max-wind-rage: G-Max Wind Rage
+gastro-acid: Gastro Acid
+gear-grind: Gear Grind
+gear-up: Gear Up
+genesis-supernova: Genesis Supernova
+geomancy: Geomancy
+giga-drain: Giga Drain
+giga-impact: Giga Impact
+gigavolt-havoc: Gigavolt Havoc
+glacial-lance: Glacial Lance
+glaciate: Glaciate
+glare: Glare
+glitzy-glow: Glitzy Glow
 grass-knot: Grass Knot
 grass-pledge: Grass Pledge
 grass-whistle: Grass Whistle
@@ -321,9 +321,9 @@ gravity: Gravity
 growl: Growl
 growth: Growth
 grudge: Grudge
-guardian-of-alola: Guardian of Alola
 guard-split: Guard Split
 guard-swap: Guard Swap
+guardian-of-alola: Guardian of Alola
 guillotine: Guillotine
 gunk-shot: Gunk Shot
 gust: Gust
@@ -333,14 +333,14 @@ hammer-arm: Hammer Arm
 happy-hour: Happy Hour
 harden: Harden
 haze: Haze
-headbutt: Headbutt
 head-charge: Head Charge
 head-smash: Head Smash
+headbutt: Headbutt
 heal-bell: Heal Bell
 heal-block: Heal Block
-healing-wish: Healing Wish
 heal-order: Heal Order
 heal-pulse: Heal Pulse
+healing-wish: Healing Wish
 heart-stamp: Heart Stamp
 heart-swap: Heart Swap
 heat-crash: Heat Crash
@@ -349,22 +349,6 @@ heavy-slam: Heavy Slam
 helping-hand: Helping Hand
 hex: Hex
 hidden-power: Hidden Power
-hidden-power-bug: Hidden Power Bug
-hidden-power-dark: Hidden Power Dark
-hidden-power-dragon: Hidden Power Dragon
-hidden-power-electric: Hidden Power Electric
-hidden-power-fighting: Hidden Power Fighting
-hidden-power-fire: Hidden Power Fire
-hidden-power-flying: Hidden Power Flying
-hidden-power-ghost: Hidden Power Ghost
-hidden-power-grass: Hidden Power Grass
-hidden-power-ground: Hidden Power Ground
-hidden-power-ice: Hidden Power Ice
-hidden-power-poison: Hidden Power Poison
-hidden-power-psychic: Hidden Power Psychic
-hidden-power-rock: Hidden Power Rock
-hidden-power-steel: Hidden Power Steel
-hidden-power-water: Hidden Power Water
 high-horsepower: High Horsepower
 high-jump-kick: High Jump Kick
 hold-back: Hold Back
@@ -380,9 +364,9 @@ hydro-pump: Hydro Pump
 hydro-vortex: Hydro Vortex
 hyper-beam: Hyper Beam
 hyper-fang: Hyper Fang
+hyper-voice: Hyper Voice
 hyperspace-fury: Hyperspace Fury
 hyperspace-hole: Hyperspace Hole
-hyper-voice: Hyper Voice
 hypnosis: Hypnosis
 ice-ball: Ice Ball
 ice-beam: Ice Beam
@@ -411,21 +395,21 @@ jump-kick: Jump Kick
 jungle-healing: Jungle Healing
 karate-chop: Karate Chop
 kinesis: Kinesis
-king-s-shield: King's Shield
+king-s-shield: King’s Shield
 knock-off: Knock Off
-land-s-wrath: Land's Wrath
+land-s-wrath: Land’s Wrath
 laser-focus: Laser Focus
 lash-out: Lash Out
 last-resort: Last Resort
 lava-plume: Lava Plume
-leafage: Leafage
 leaf-blade: Leaf Blade
 leaf-storm: Leaf Storm
 leaf-tornado: Leaf Tornado
+leafage: Leafage
 leech-life: Leech Life
 leech-seed: Leech Seed
 leer: Leer
-let-s-snuggle-forever: Let's Snuggle Forever
+let-s-snuggle-forever: Let’s Snuggle Forever
 lick: Lick
 life-dew: Life Dew
 light-of-ruin: Light of Ruin
@@ -441,14 +425,14 @@ lunar-dance: Lunar Dance
 lunge: Lunge
 luster-purge: Luster Purge
 mach-punch: Mach Punch
-magical-leaf: Magical Leaf
 magic-coat: Magic Coat
 magic-powder: Magic Powder
 magic-room: Magic Room
+magical-leaf: Magical Leaf
 magma-storm: Magma Storm
 magnet-bomb: Magnet Bomb
-magnetic-flux: Magnetic Flux
 magnet-rise: Magnet Rise
+magnetic-flux: Magnetic Flux
 magnitude: Magnitude
 malicious-moonsault: Malicious Moonsault
 mat-block: Mat Block
@@ -471,13 +455,13 @@ max-starfall: Max Starfall
 max-steelspike: Max Steelspike
 max-strike: Max Strike
 max-wyrmwind: Max Wyrmwind
+me-first: Me First
 mean-look: Mean Look
 meditate: Meditate
-me-first: Me First
 mega-drain: Mega Drain
-megahorn: Megahorn
 mega-kick: Mega Kick
 mega-punch: Mega Punch
+megahorn: Megahorn
 memento: Memento
 menacing-moonraze-maelstrom: Menacing Moonraze Maelstrom
 metal-burst: Metal Burst
@@ -514,15 +498,15 @@ mystical-fire: Mystical Fire
 nasty-plot: Nasty Plot
 natural-gift: Natural Gift
 nature-power: Nature Power
-nature-s-madness: Nature's Madness
+nature-s-madness: Nature’s Madness
 needle-arm: Needle Arm
 never-ending-nightmare: Never-Ending Nightmare
 night-daze: Night Daze
-nightmare: Nightmare
 night-shade: Night Shade
 night-slash: Night Slash
-noble-roar: Noble Roar
+nightmare: Nightmare
 no-retreat: No Retreat
+noble-roar: Noble Roar
 nuzzle: Nuzzle
 oblivion-wing: Oblivion Wing
 obstruct: Obstruct
@@ -538,8 +522,8 @@ overheat: Overheat
 pain-split: Pain Split
 parabolic-charge: Parabolic Charge
 parting-shot: Parting Shot
-payback: Payback
 pay-day: Pay Day
+payback: Payback
 peck: Peck
 perish-song: Perish Song
 petal-blizzard: Petal Blizzard
@@ -634,8 +618,8 @@ sacred-fire: Sacred Fire
 sacred-sword: Sacred Sword
 safeguard: Safeguard
 sand-attack: Sand Attack
-sandstorm: Sandstorm
 sand-tomb: Sand Tomb
+sandstorm: Sandstorm
 sappy-seed: Sappy Seed
 savage-spin-out: Savage Spin-Out
 scald: Scald
@@ -788,13 +772,13 @@ thousand-waves: Thousand Waves
 thrash: Thrash
 throat-chop: Throat Chop
 thunder: Thunder
-thunderbolt: Thunderbolt
 thunder-cage: Thunder Cage
 thunder-fang: Thunder Fang
-thunderous-kick: Thunderous Kick
 thunder-punch: Thunder Punch
 thunder-shock: Thunder Shock
 thunder-wave: Thunder Wave
+thunderbolt: Thunderbolt
+thunderous-kick: Thunderous Kick
 tickle: Tickle
 topsy-turvy: Topsy-Turvy
 torment: Torment
@@ -815,8 +799,8 @@ twinkle-tackle: Twinkle Tackle
 twister: Twister
 u-turn: U-turn
 uproar: Uproar
-vacuum-wave: Vacuum Wave
 v-create: V-create
+vacuum-wave: Vacuum Wave
 veevee-volley: Veevee Volley
 venom-drench: Venom Drench
 venoshock: Venoshock
@@ -826,13 +810,13 @@ vital-throw: Vital Throw
 volt-switch: Volt Switch
 volt-tackle: Volt Tackle
 wake-up-slap: Wake-Up Slap
-waterfall: Waterfall
 water-gun: Water Gun
 water-pledge: Water Pledge
 water-pulse: Water Pulse
 water-shuriken: Water Shuriken
 water-sport: Water Sport
 water-spout: Water Spout
+waterfall: Waterfall
 weather-ball: Weather Ball
 whirlpool: Whirlpool
 whirlwind: Whirlwind
