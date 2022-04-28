@@ -1,0 +1,5 @@
+:trainer:
+  player: <@pokemon>
+  wild: 野生的<@pokemon>
+  opponent: 对手的<@pokemon>
+  spectator: <player>的<@pokemon>

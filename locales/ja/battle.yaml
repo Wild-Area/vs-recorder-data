@@ -1,0 +1,5 @@
+:trainer:
+  player: <@pokemon>
+  wild: 野生の　<@pokemon>
+  opponent: 相手の　<@pokemon>
+  spectator: <player>の　<@pokemon>

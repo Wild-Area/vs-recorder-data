@@ -118,18 +118,22 @@ def process_ids(key, text_data, ctx):
     print(f"{lang} - {key}")
     ctx.data[lang][key] = ids = {}
     ctx.data[lang][f"{key}-info"] = descs = {}
-    if key == "ability":
-        names = text_data["tokusei"][1:]
-        info = text_data["tokuseiinfo"][1:]
-    elif key == "item":
-        names = text_data["itemname"]
-        info = text_data["iteminfo"]
-    elif key == "move":
-        names = text_data["wazaname"][1:] + text_data["gwazaname"]
-        info = text_data["wazainfo"][1:] + text_data["gwazainfo"]
-    elif key == "nature":
-        names = text_data["seikaku"][:-1]
-        info = None
+    match key:
+        case "ability":
+            names = text_data["tokusei"][1:]
+            info = text_data["tokuseiinfo"][1:]
+        case "item":
+            names = text_data["itemname"]
+            info = text_data["iteminfo"]
+        case "move":
+            names = text_data["wazaname"][1:] + text_data["gwazaname"]
+            info = text_data["wazainfo"][1:] + text_data["gwazainfo"]
+        case "nature":
+            names = text_data["seikaku"][:-1]
+            info = None
+        case "type":
+            names = text_data["typename"][:-1]
+            info = None
     keys = ctx.cache.setdefault(key, {})
     if lang == "en":
         for i, name in enumerate(names):
@@ -144,12 +148,97 @@ def process_ids(key, text_data, ctx):
     return ids, descs
 
 
-def process_common(ctx):
+VARIABLE_REGEX = re.compile(r"(\[VAR .+?(?:\(.+?\))?\])")
+
+def _parse_variable(v):
+    tmp = v.split("[VAR ")
+    if len(tmp) == 1:
+        return v
+    k1 = tmp[1][0:4]
+    match k1:
+        case "0100":
+            return "<player>"
+        case "0102":
+            return "<@pokemon>"
+        case "0103":
+            return "<@type>"
+        case "0106":
+            return "<@ability>"
+        case "0107":
+            return "<@move>"
+        case "0109":
+            return "<@item>"
+        case "0200":
+            return "<@pp>"
+        case "010A" | "1002" | "1302" | "1900" | "BD06" | "FF00":
+            return ""
+        case "0101":
+            return ""
+            # raise ValueError("Should not reach here (Mega)")
+    return ""
+
+def _battle_preprocess(line):
+    return "".join([_parse_variable(x) for x in VARIABLE_REGEX.split(line)])
+
+
+def _battle_text(ctx, range, key, subkeys = None):
+    (start, end) = range
+    battle = ctx.data["en"]["battle"]
+    battle[key] = entry = {}
+    indices = {}
+    ctx.cache["battle"][key] = {
+        "file": ctx.current_file,
+        "subkeys": subkeys,
+        "indices": indices,
+    }
+    file = ctx.current_text_data[ctx.current_file]
+    for i, line in enumerate(file[start:end]):
+        line = _battle_preprocess(line)
+        if line is None:
+            continue
+        k = f"t-{len(entry) + 1}" if subkeys is None else _get_subkey(line)
+        entry[k] = line
+        indices[k] = i + start
+    if subkeys is None and len(entry) == 1:
+        battle[key] = list(entry.items())[0]
+
+
+
+def _battle_trainer(lines):
+    lines = [_battle_preprocess(x) for x in lines]
+    prefix, suffix = lines[0].split("<@pokemon>")
+    trainer = {
+        "player": "<@pokemon>"
+    }
+    for key, line in zip(["wild", "opponent", "spectator"], lines[1:]):
+        assert line.startswith(prefix) and line.endswith(suffix)
+        trainer[key] = line.lstrip(prefix).rstrip(suffix)
+    return trainer
+
+
+def process_battle(text_data, ctx):
     lang = ctx.current_lang
-    print(f"{lang} - common")
-    data = ctx.data[lang]
-    common_data = data["common"]
-    pass
+    print(f"{lang} - battle")
+    ctx.data[lang]["battle"] = battle = {}
+    battle[":trainer"] = _battle_trainer(text_data["btl_set"][0:4])
+    # if lang != "en":
+    #     for key, cached in ctx.cache["battle"].items():
+    #         battle[key] = entry = {}
+    #         file = text_data[cached["file"]]
+    #         subkeys = cached["subkeys"]
+    #         for k, index in cached["indices"].items():
+    #             _, entry[k] = _battle_preprocess(file[index], subkeys, entry)
+    #         if subkeys is None and len(entry) == 1:
+    #             battle[key] = list(entry.items())[0]
+
+    #     return battle
+
+    # ctx.cache["battle"] = {}
+    # ctx.current_file = "btl_set"
+    # _battle_text(ctx, (0, 4), "faint", "op")
+    # _battle_text(ctx, (8, 4), "effectiveness", "effect")
+    # _battle_text(ctx, (4, len(text_data["btl_set"])), "other")
+    return battle
 
 
 def export_all(ctx):
@@ -158,7 +247,7 @@ def export_all(ctx):
         if len(value) == 0:
             continue
         with open(os.path.join(ctx.output_dir, lang, f"{key}.yaml"), "w") as fo:
-            yaml.safe_dump(value, fo, allow_unicode=True)
+            yaml.safe_dump(value, fo, allow_unicode=True, sort_keys=False)
 
 
 def process(lang, ctx):
@@ -167,14 +256,15 @@ def process(lang, ctx):
     output_dir = os.path.join(ctx.output_dir, lang)
     os.makedirs(output_dir, exist_ok=True)
     ctx.current_lang = lang
+    ctx.current_text_data = text_data
     ctx.data[lang] = data = {}
-    data["common"] = {}
-    process_ids("ability", text_data, ctx)
-    process_ids("item", text_data, ctx)
-    process_ids("move", text_data, ctx)
-    process_ids("nature", text_data, ctx)
-    process_common(ctx)
-    process_pokes(text_data, ctx)
+    # process_ids("ability", text_data, ctx)
+    # process_ids("item", text_data, ctx)
+    # process_ids("move", text_data, ctx)
+    # process_ids("nature", text_data, ctx)
+    # process_ids("type", text_data, ctx)
+    process_battle(text_data, ctx)
+    # process_pokes(text_data, ctx)
     export_all(ctx)
     return data
 
