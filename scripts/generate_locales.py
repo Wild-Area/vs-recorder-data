@@ -7,8 +7,8 @@ import yaml
 
 BASE_PATH = os.path.dirname(os.path.dirname(__file__))
 LANGUAGES = [
-    "chs",
-    "cht",
+    "zhs",
+    "zht",
     "de",
     "en",
     "es",
@@ -25,7 +25,7 @@ class Context:
 
 
 def is_cjk(lang):
-    return lang in ("chs", "cht", "ja", "jakana", "ko")
+    return lang in ("zhs", "zht", "ja", "jakana", "ko")
 
 
 def to_kebab_case(name):
@@ -36,8 +36,8 @@ def get_text_resource(lang, tmpdir):
     output = os.path.join(tmpdir, lang + ".txt")
     if not os.path.exists(output):
         filename = {
-            "chs": "ch-simplified",
-            "cht": "ch-traditional",
+            "zhs": "ch-simplified",
+            "zht": "ch-traditional",
             "ja": "ja-hiragana",
             "jakana": "ja-katakana",
         }.get(lang, lang)
@@ -182,7 +182,7 @@ def process(lang, ctx):
 def main():
     if len(sys.argv) < 3:
         print("Usage: ./generate_locales.py path_to/output/ path_to/tmp " + \
-            "[languages=chs,cht,de,en,es,fr,it,ja,jakana,ko]", file=sys.stderr)
+            "[languages=zhs,zht,de,en,es,fr,it,ja,jakana,ko]", file=sys.stderr)
         exit(1)
     output_dir = os.path.abspath(sys.argv[1])
     tmpdir = os.path.abspath(sys.argv[2])
