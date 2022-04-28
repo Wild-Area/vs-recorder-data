@@ -1,0 +1,349 @@
+adaptability: Potencia aún más los movimientos cuyo tipo coincida con el suyo.
+aerilate: Convierte los movimientos de tipo Normal en tipo Volador y aumenta ligeramente
+  su potencia.
+aftermath: Daña al agresor que le ha dado el golpe de gracia con un movimiento de
+  contacto.
+air-lock: Neutraliza todos los efectos del tiempo atmosférico.
+analytic: Aumenta la potencia de su movimiento si es el último en atacar.
+anger-point: Si recibe un golpe crítico, monta en cólera y sube su Ataque hasta el
+  máximo.
+anticipation: Prevé los movimientos peligrosos del rival.
+arena-trap: Evita que el rival huya.
+aroma-veil: Se protege a sí mismo y a sus aliados de ataques que impiden elegir movimientos.
+as-one: 'El Pokémon tiene dos habilidades: Relincho Negro de Spectrier y Nerviosismo
+  de Calyrex.'
+aura-break: Invierte los efectos de las auras, por lo que baja la potencia de ciertos
+  movimientos en vez de subirla.
+bad-dreams: Inflige daño a cualquier rival que esté dormido.
+ball-fetch: Si no lleva equipado ningún objeto, recupera la Poké Ball del primer intento
+  de captura fallido.
+battery: Potencia los ataques especiales de los aliados.
+battle-armor: La robusta coraza que lo protege bloquea los golpes críticos.
+battle-bond: Al derrotar a un rival, los vínculos con su Entrenador se refuerzan y
+  se convierte en Greninja Ash. Su Shuriken de Agua también se ve potenciado.
+beast-boost: Si derrota a un rival en ese turno, aumenta su característica más fuerte.
+berserk: Aumenta su Ataque Especial si sus PS se ven reducidos a la mitad debido a
+  algún ataque.
+big-pecks: Impide que el rival le baje la Defensa.
+blaze: Potencia sus movimientos de tipo Fuego cuando le quedan pocos PS.
+bulletproof: No le afectan las bombas ni algunos proyectiles.
+cheek-pouch: Recupera PS al comer cualquier baya.
+chilling-neigh: Al derrotar a un objetivo, emite un relincho gélido y aumenta su Ataque.
+chlorophyll: Sube su Velocidad cuando hace sol.
+clear-body: Evita que bajen sus características a causa de movimientos o habilidades
+  de otros Pokémon.
+cloud-nine: Anula todos los efectos del tiempo atmosférico.
+color-change: Adopta el tipo del último movimiento del que es blanco.
+comatose: No despierta jamás de su profundo letargo e incluso ataca dormido.
+competitive: Aumenta mucho su Ataque Especial cuando el rival le baja cualquiera de
+  sus características.
+compound-eyes: Aumenta la precisión de sus movimientos.
+contrary: 'Invierte los cambios en las características: bajan cuando les toca subir
+  y suben cuando les toca bajar.'
+corrosion: Puede envenenar incluso a rivales de tipo Acero o Veneno.
+cotton-down: Al ser alcanzado por un ataque, suelta una pelusa de algodón que reduce
+  la Velocidad de todos los demás Pokémon.
+curious-medicine: Al entrar en combate, rezuma una substancia medicinal por la caracola
+  que revierte los cambios en las características de los aliados.
+cursed-body: Puede anular el movimiento usado en su contra.
+cute-charm: Puede causar enamoramiento al rival que lo toque.
+damp: Aumenta la humedad del entorno y evita que se puedan utilizar movimientos explosivos,
+  tales como Autodestrucción.
+dancer: Puede copiar inmediatamente cualquier movimiento de baile que haya usado otro
+  Pokémon presente en el combate.
+dark-aura: Aumenta la potencia de todos los movimientos de tipo Siniestro.
+dauntless-shield: Aumenta su Defensa al entrar en combate.
+dazzling: Desconcierta al rival y le impide utilizar movimientos con prioridad en
+  su contra.
+defeatist: Se debilita tanto cuando sus PS se ven reducidos a la mitad que su Ataque
+  y su Ataque Especial bajan.
+defiant: Sube mucho su Ataque cuando el rival le baja las características.
+delta-stream: Altera el clima para anular las vulnerabilidades del tipo Volador.
+desolate-land: Altera el clima para anular los ataques de tipo Agua.
+disguise: Puede eludir un ataque valiéndose de la tela que le cubre el cuerpo una
+  vez por combate.
+download: Compara la Defensa y la Defensa Especial del rival para ver cuál es inferior
+  y aumenta su propio Ataque o Ataque Especial según sea lo más eficaz.
+dragon-s-maw: Potencia los movimientos de tipo Dragón.
+drizzle: Hace que llueva al entrar en combate.
+drought: Cuando entra en combate, el tiempo pasa a ser soleado.
+dry-skin: Pierde PS si hace sol y los recupera si llueve o recibe un movimiento de
+  tipo Agua. Los movimientos de tipo Fuego, por su parte, le hacen más daño de lo
+  normal.
+early-bird: Si se duerme, tardará la mitad de tiempo en despertarse.
+effect-spore: Puede dormir, envenenar o paralizar al Pokémon con el que entre en contacto
+  al recibir un ataque.
+electric-surge: Crea un campo eléctrico al entrar en combate.
+emergency-exit: Abandona el terreno de combate cuando sus PS se ven reducidos a la
+  mitad para evitar males mayores.
+fairy-aura: Aumenta la potencia de todos los movimientos de tipo Hada.
+filter: Mitiga el daño que le infligen los movimientos supereficaces.
+flame-body: Puede quemar al mínimo contacto.
+flare-boost: Aumenta la potencia de sus ataques especiales cuando sufre quemaduras.
+flash-fire: Si le alcanza algún movimiento de tipo Fuego, potencia sus propios movimientos
+  de dicho tipo.
+flower-gift: Si hace sol, aumenta su Ataque y su Defensa Especial, así como los de
+  sus aliados.
+flower-veil: Evita que los Pokémon de tipo Planta aliados sufran problemas de estado
+  o que les bajen sus características.
+fluffy: Reduce a la mitad el daño provocado por los movimientos de contacto, pero
+  duplica el infligido por los de tipo Fuego.
+forecast: Cambia a tipo Agua, Fuego o Hielo en función del tiempo atmosférico.
+forewarn: Indica el movimiento más potente del rival al entrar en combate.
+friend-guard: Reduce el daño que sufren los aliados.
+frisk: Puede ver el objeto que lleva el rival al entrar en combate.
+full-metal-body: Evita que bajen sus características a causa de movimientos o habilidades
+  de otros Pokémon.
+fur-coat: Reduce a la mitad el daño que recibe de ataques físicos del rival.
+gale-wings: Da prioridad a los movimientos de tipo Volador si sus PS están al máximo.
+galvanize: Convierte los movimientos de tipo Normal en tipo Eléctrico y aumenta ligeramente
+  su potencia.
+gluttony: Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente
+  solo se comería cuando le quedasen pocos PS.
+gooey: Baja la Velocidad del rival cuando este le ataca con un movimiento de contacto.
+gorilla-tactics: Potencia su Ataque, pero solo puede usar el primer movimiento escogido.
+grass-pelt: Aumenta su Defensa si hay un campo de hierba en el terreno de combate.
+grassy-surge: Crea un campo de hierba al entrar en combate.
+grim-neigh: Al derrotar a un objetivo, emite un relincho aterrador y aumenta su Ataque
+  Especial.
+gulp-missile: Tras usar Surf o Buceo, emerge con una presa en la boca. Al recibir
+  daño, ataca escupiéndola al rival.
+guts: Si sufre un problema de estado, se viene arriba y aumenta su Ataque.
+harvest: Puede reutilizar varias veces una misma baya.
+healer: A veces cura los problemas de estado de un aliado.
+heatproof: Su cuerpo, resistente al calor, reduce a la mitad el daño recibido por
+  movimientos de tipo Fuego.
+heavy-metal: Duplica su peso.
+honey-gather: Puede que encuentre Miel una vez concluido el combate.
+huge-power: Duplica la potencia de sus ataques físicos.
+hunger-switch: Alterna entre su Forma Saciada y Forma Voraz al final de cada turno.
+hustle: Aumenta su Ataque, pero reduce su Precisión.
+hydration: Cura los problemas de estado si está lloviendo.
+hyper-cutter: Evita que el rival le baje el Ataque.
+ice-body: Recupera PS de forma gradual cuando hay tormentas de granizo.
+ice-face: Absorbe el daño de un ataque físico con el hielo de la cabeza, tras lo cual
+  cambia de forma. El hielo se regenerará la próxima vez que granice.
+ice-scales: Las gélidas escamas que protegen su cuerpo reducen a la mitad el daño
+  que le infligen los ataques especiales.
+illuminate: Aumenta la probabilidad de encontrar Pokémon al iluminar el entorno.
+illusion: Adopta el aspecto del último Pokémon del equipo al entrar en combate para
+  desconcertar al rival.
+immunity: Su sistema inmunitario evita el envenenamiento.
+imposter: Se transforma en el Pokémon que tiene enfrente.
+infiltrator: Ataca sorteando la barrera o el sustituto del rival.
+innards-out: Al caer debilitado, inflige al rival un daño equivalente a los PS que
+  le quedaran.
+inner-focus: Gracias a su profunda concentración, no se amedrenta ante los ataques
+  del rival.
+insomnia: Su resistencia al sueño le impide quedarse dormido.
+intimidate: Al entrar en combate amilana al rival de tal manera que su Ataque disminuye.
+intrepid-sword: Aumenta su Ataque al entrar en combate.
+iron-barbs: Inflige daño al rival si este le golpea con un movimiento de contacto.
+iron-fist: Aumenta la potencia de los puñetazos.
+justified: Si le alcanza un movimiento de tipo Siniestro, aumenta el Ataque debido
+  a su integridad.
+keen-eye: Su aguda vista evita que le disminuya la Precisión.
+klutz: No puede usar objetos equipados.
+leaf-guard: Evita los problemas de estado si hace sol.
+levitate: Su capacidad de flotar sobre el suelo le proporciona inmunidad frente a
+  los movimientos de tipo Tierra.
+libero: Cambia su tipo al del movimiento que va a usar.
+light-metal: Reduce a la mitad su peso.
+lightning-rod: Atrae y neutraliza los movimientos de tipo Eléctrico, que además le
+  suben el Ataque Especial.
+limber: Evita ser paralizado gracias a la flexibilidad de su cuerpo.
+liquid-ooze: Exuda una sustancia tóxica de intenso hedor que hiere a quienes intentan
+  drenarle PS.
+liquid-voice: Hace que todos sus movimientos que usan sonido pasen a ser de tipo Agua.
+long-reach: Puede usar cualquier movimiento sin entrar en contacto con el rival.
+magic-bounce: Puede devolver los movimientos de estado lanzados por el rival, sin
+  verse afectado por ellos.
+magic-guard: Solo recibe daño de ataques.
+magician: Roba el objeto del Pokémon al que alcance con un movimiento.
+magma-armor: Gracias al magma candente que lo envuelve, no puede ser congelado.
+magnet-pull: Su magnetismo atrae a los Pokémon de tipo Acero y les impide huir.
+marvel-scale: Sube su Defensa si sufre un problema de estado.
+mega-launcher: Aumenta la potencia de algunos movimientos de pulsos y auras.
+merciless: Hace que sus movimientos asesten siempre un golpe crítico si el rival está
+  envenenado.
+mimicry: Cambia su tipo según el campo que haya en el terreno de combate.
+minus: Potencia su Ataque Especial si un Pokémon aliado tiene la habilidad Más o Menos.
+mirror-armor: Refleja los efectos que reducen las características.
+misty-surge: Crea un campo de niebla al entrar en combate.
+mold-breaker: Las habilidades del objetivo no afectan a los movimientos que emplea.
+moody: Una característica le sube mucho en cada turno, pero le baja otra.
+motor-drive: Si le alcanza un movimiento de tipo Eléctrico, le sube la Velocidad en
+  vez de sufrir daño.
+moxie: Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta
+  su Ataque.
+multiscale: Reduce el daño que sufre si sus PS están al máximo.
+multitype: Cambia su tipo al de la tabla o al del Cristal Z que lleve.
+mummy: Contagia la habilidad Momia al rival que entre en contacto con él.
+natural-cure: Cura sus problemas de estado al cambiarse con otro Pokémon.
+neuroforce: Potencia los ataques supereficaces.
+neutralizing-gas: Anula los efectos de las habilidades de los demás Pokémon presentes
+  mientras esté en el terreno de combate.
+no-guard: Al quedar ambos expuestos, tanto sus movimientos como los del rival acertarán
+  siempre.
+normalize: Hace que todos sus movimientos se vuelvan de tipo Normal y aumenten ligeramente
+  su potencia.
+oblivious: Su indiferencia evita que sea provocado o caiga presa del enamoramiento.
+overcoat: No le afectan las tormentas de arena, el granizo y los movimientos con polvos.
+overgrow: Potencia sus movimientos de tipo Planta cuando le quedan pocos PS.
+own-tempo: Como le gusta hacer las cosas a su manera, los rivales no logran confundirlo.
+parental-bond: Une fuerzas con su cría y ataca dos veces.
+pastel-veil: Se protege a sí mismo y a sus aliados del envenenamiento.
+perish-body: Si le alcanza un movimiento de contacto, se debilitará al cabo de 3 turnos,
+  así como su agresor, a menos que abandonen el terreno de combate.
+pickpocket: Si el rival usa un movimiento de contacto al atacar, le roba el objeto.
+pickup: Puede recoger objetos que el rival haya usado, o bien otros que encuentre
+  en plena aventura.
+pixilate: Convierte los movimientos de tipo Normal en tipo Hada y aumenta ligeramente
+  su potencia.
+plus: Potencia su Ataque Especial si un Pokémon aliado tiene la habilidad Más o Menos.
+poison-heal: Si resulta envenenado, recupera PS en vez de perderlos.
+poison-point: Puede envenenar al mínimo contacto.
+poison-touch: Puede envenenar al objetivo con solo tocarlo.
+power-construct: Cuando sus PS se ven reducidos a la mitad, las células se reagrupan
+  y adopta su Forma Completa.
+power-of-alchemy: Reacciona copiando la habilidad de un aliado debilitado.
+power-spot: Potencia los movimientos de los Pokémon adyacentes.
+prankster: Sus movimientos de estado tienen prioridad alta.
+pressure: Presiona al rival para que sus PP se acaben antes.
+primordial-sea: Altera el clima para anular los ataques de tipo Fuego.
+prism-armor: Mitiga el daño que le infligen los movimientos supereficaces.
+propeller-tail: Impide que el rival pueda atraer ataques hacia sí mismo por efecto
+  de su habilidad o sus movimientos.
+protean: Cambia su tipo al del movimiento que va a usar.
+psychic-surge: Crea un campo psíquico al entrar en combate.
+punk-rock: Potencia los movimientos que usan sonido y reduce a la mitad el daño que
+  le infligen dichos movimientos.
+pure-power: Duplica la potencia de sus ataques físicos gracias al yoga.
+queenly-majesty: Intimida al objetivo y le impide usar movimientos con prioridad.
+quick-draw: A veces, puede atacar el primero.
+quick-feet: Aumenta la Velocidad si sufre problemas de estado.
+rain-dish: Recupera PS de forma gradual cuando llueve.
+rattled: Si le alcanza un movimiento de tipo Siniestro, Bicho o Fantasma, el miedo
+  hace que le suba la Velocidad.
+receiver: Adquiere la habilidad de un aliado debilitado.
+reckless: Potencia los movimientos que también dañan al usuario.
+refrigerate: Convierte los movimientos de tipo Normal en tipo Hielo y aumenta ligeramente
+  su potencia.
+regenerator: Recupera unos pocos PS al ser cambiado por otro Pokémon.
+ripen: Hace madurar las bayas, por lo que duplica sus efectos.
+rivalry: Si el objetivo es del mismo sexo, su competitividad le lleva a infligir más
+  daño. Si es del sexo contrario, en cambio, el daño será menor.
+rks-system: Cambia su tipo según el disco que lleve instalado.
+rock-head: No puede dañarse con sus propios movimientos.
+rough-skin: Hiere con su piel áspera al rival que lo ataque con un movimiento de contacto.
+run-away: Puede escaparse de todos los Pokémon salvajes.
+sand-force: Potencia los movimientos de tipo Tierra, Acero y Roca durante las tormentas
+  de arena.
+sand-rush: Aumenta su Velocidad durante las tormentas de arena.
+sand-spit: Provoca una tormenta de arena al recibir un ataque.
+sand-stream: Crea una tormenta de arena al entrar en combate.
+sand-veil: Aumenta su Evasión durante las tormentas de arena.
+sap-sipper: Neutraliza los movimientos de tipo Planta y sube su Ataque.
+schooling: Forma bancos con sus congéneres cuando tiene muchos PS, lo cual le otorga
+  más fuerza. Cuando le quedan pocos PS, el banco se dispersa.
+scrappy: Puede alcanzar a Pokémon de tipo Fantasma con movimientos de tipo Normal
+  o Lucha.
+screen-cleaner: Anula los efectos de Pantalla de Luz, Reflejo y Velo Aurora tanto
+  de rivales como de aliados al entrar en combate.
+serene-grace: Aumenta la probabilidad de que los movimientos causen efectos secundarios.
+shadow-shield: Reduce el daño que sufre si sus PS están al máximo.
+shadow-tag: Impide que el enemigo huya o sea cambiado por otro.
+shed-skin: Puede curar sus problemas de estado al mudar la piel.
+sheer-force: Sube la potencia de sus movimientos en detrimento de los efectos secundarios,
+  que se ven anulados.
+shell-armor: La robusta coraza que lo protege bloquea los golpes críticos.
+shield-dust: El polvo de escamas que lo envuelve lo protege de los efectos secundarios
+  de los ataques recibidos.
+shields-down: Rompe su coraza cuando sus PS se ven reducidos a la mitad y adopta una
+  forma ofensiva.
+simple: Duplica los cambios en las características.
+skill-link: Ejecuta siempre los movimientos múltiples con el número máximo de golpes.
+slow-start: Baja a la mitad su Ataque y su Velocidad durante cinco turnos.
+slush-rush: Aumenta su Velocidad si está granizando.
+sniper: Potencia los golpes críticos que asesta aún más de lo normal.
+snow-cloak: Sube la Evasión cuando graniza.
+snow-warning: Invoca una tormenta de granizo al entrar en combate.
+solar-power: Si hace sol, aumenta su Ataque Especial, pero pierde PS en cada turno.
+solid-rock: Mitiga el daño que le infligen los movimientos supereficaces.
+soul-heart: Aumenta su Ataque Especial cada vez que un Pokémon cae debilitado.
+soundproof: Su aislamiento acústico lo protege de movimientos que usan sonido.
+speed-boost: Aumenta su Velocidad en cada turno.
+stakeout: Si el objetivo de su ataque es sustituido por otro, duplica el daño que
+  infligirá.
+stall: Ejecuta su movimiento tras todos los demás.
+stalwart: Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su
+  habilidad o sus movimientos.
+stamina: Aumenta su Defensa al recibir un ataque.
+stance-change: Adopta la Forma Filo al lanzar un ataque, o bien la Forma Escudo si
+  usa el movimiento Escudo Real.
+static: La electricidad estática que lo envuelve puede paralizar al mínimo contacto.
+steadfast: Cada vez que se amedrenta sube su Velocidad, debido a su voluntad inquebrantable.
+steam-engine: Si le alcanza un movimiento de tipo Fuego o Agua, le sube muchísimo
+  la Velocidad.
+steelworker: Potencia los movimientos de tipo Acero.
+steely-spirit: Potencia los movimientos de tipo Acero de los aliados.
+stench: Puede amedrentar al rival al atacarlo debido al mal olor que emana.
+sticky-hold: Los objetos se quedan pegados a su cuerpo, por lo que no pueden robárselos.
+storm-drain: Atrae y neutraliza los movimientos de tipo Agua, que además le suben
+  el Ataque Especial.
+strong-jaw: Su robusta mandíbula le confiere una mordedura potente.
+sturdy: Evita que el rival pueda debilitarlo de un solo golpe cuando tiene los PS
+  al máximo. También evita los movimientos fulminantes.
+suction-cups: Sus ventosas se aferran al suelo, con lo cual anula movimientos y objetos
+  que fuerzan el relevo.
+super-luck: Su buena suerte aumenta la probabilidad de asestar golpes críticos.
+surge-surfer: Duplica su Velocidad si hay un campo eléctrico en el terreno de combate.
+swarm: Potencia sus movimientos de tipo Bicho cuando le quedan pocos PS.
+sweet-veil: No cae dormido y evita también que sus aliados se duerman.
+swift-swim: Sube su Velocidad cuando llueve.
+symbiosis: Pasa su objeto a un aliado que ya haya utilizado el suyo.
+synchronize: Contagia el envenenamiento, las quemaduras o la parálisis al Pokémon
+  que le cause ese estado.
+tangled-feet: Sube su Evasión si está confuso.
+tangling-hair: Baja la Velocidad del rival cuando este le ataca con un movimiento
+  de contacto.
+technician: Potencia sus movimientos más débiles.
+telepathy: Elude los ataques de los aliados durante el combate.
+teravolt: Las habilidades del objetivo no afectan a los movimientos que emplea.
+thick-fat: Gracias a la gruesa capa de grasa que lo protege, reduce a la mitad el
+  daño que recibe de ataques de tipo Fuego o Hielo.
+tinted-lens: Potencia los movimientos que no son muy eficaces, que infligen ahora
+  un daño normal.
+torrent: Potencia sus movimientos de tipo Agua cuando le quedan pocos PS.
+tough-claws: Aumenta la potencia de los movimientos de contacto.
+toxic-boost: Aumenta la potencia de sus ataques físicos cuando está envenenado.
+trace: Al entrar en combate copia la habilidad del rival.
+transistor: Potencia los movimientos de tipo Eléctrico.
+triage: Da prioridad a los movimientos que restauran PS.
+truant: Al ejecutar un movimiento, descansará en el turno siguiente.
+turboblaze: Las habilidades del objetivo no afectan a los movimientos que emplea.
+unaware: Pasa por alto las mejoras en las características del rival al atacar.
+unburden: Sube su Velocidad si usa o pierde el objeto que lleva.
+unnerve: Pone nervioso al rival y le impide usar bayas.
+unseen-fist: Si usa un movimiento de contacto, puede infligir daño al objetivo aunque
+  este se proteja.
+victory-star: Sube su Precisión y la de sus aliados.
+vital-spirit: Su determinación le impide quedarse dormido.
+volt-absorb: Si le alcanza un movimiento de tipo Eléctrico, recupera PS en vez de
+  sufrir daño.
+wandering-spirit: Si le alcanza un movimiento de contacto, intercambia su habilidad
+  con la del agresor.
+water-absorb: Si le alcanza un movimiento de tipo Agua, recupera PS en vez de sufrir
+  daño.
+water-bubble: Reduce el daño que le provocan los movimientos de tipo Fuego y es inmune
+  a las quemaduras.
+water-compaction: Aumenta mucho su Defensa si le alcanza un movimiento de tipo Agua.
+water-veil: Evita las quemaduras gracias a la capa de agua que lo envuelve.
+weak-armor: Al recibir daño de un ataque físico, le baja la Defensa, pero le sube
+  mucho la Velocidad.
+white-smoke: El humo blanco que lo protege evita que otros Pokémon le bajen las características.
+wimp-out: Se asusta y abandona el terreno de combate cuando sus PS se ven reducidos
+  a la mitad.
+wonder-guard: Gracias a un poder misterioso, solo le hacen daño los movimientos supereficaces.
+wonder-skin: Presenta una mayor resistencia ante los movimientos de estado.
+zen-mode: Cambia de forma si sus PS se ven reducidos a la mitad.
